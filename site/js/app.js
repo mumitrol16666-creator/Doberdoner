@@ -98,6 +98,15 @@
   const routeLink = b => 'https://2gis.kz/' + (b.city === 'Хромтау' ? 'aktobe' : 'aktobe') +
     '/directions/points/%7C' + b.geo.lon + '%2C' + b.geo.lat;
 
+  // короткая пульсация плашки точки: при входе на страницу заказа и при смене точки
+  function pulseBranchbar() {
+    $$('[data-branchbar]').forEach(bar => {
+      bar.classList.remove('is-pulse');
+      void bar.offsetWidth;
+      bar.classList.add('is-pulse');
+    });
+  }
+
   function setBranch(id, opts) {
     const next = branchOf(id);
     const changed = next.id !== branch.id;
@@ -116,6 +125,7 @@
       syncForm();
       renderCart(false);
     }
+    if (changed) pulseBranchbar();
     if (changed && !(opts && opts.silent)) toast(t('Точка заказа: ') + branch.name);
   }
 
@@ -1150,6 +1160,8 @@
   applyBranch();
   renderCart(false);
   openFromHash(true);
+  // на странице заказа сразу обращаем внимание на выбранную точку
+  if ($('[data-menu]')) pulseBranchbar();
 
   document.addEventListener('keydown', e => {
     if (e.key !== 'Escape') return;

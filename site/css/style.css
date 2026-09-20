@@ -172,6 +172,13 @@ button { font: inherit; }
   padding: 12px 16px; box-shadow: var(--shadow-sm);
 }
 .branchbar--home { margin-top: -26px; position: relative; z-index: 2; }
+/* при переходе «Собрать добер» плашка точки мигает, чтобы гость увидел, куда уйдёт заказ */
+.branchbar.is-pulse { animation: branch-pulse 1.3s ease-out 3; }
+@keyframes branch-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(255, 194, 14, .9), var(--shadow-sm); border-color: var(--brand); }
+  70% { box-shadow: 0 0 0 12px rgba(255, 194, 14, 0), var(--shadow-sm); border-color: var(--brand); }
+  100% { box-shadow: 0 0 0 0 rgba(255, 194, 14, 0), var(--shadow-sm); border-color: var(--line); }
+}
 .branchbar__main { display: flex; align-items: center; gap: 12px; flex: 1 1 260px; }
 .branchbar__main > .ic { color: var(--ink); }
 .branchbar__t { font-weight: 600; }
