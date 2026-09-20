@@ -100,7 +100,7 @@
 
   // короткая пульсация плашки точки: при входе на страницу заказа и при смене точки
   function pulseBranchbar() {
-    $$('[data-branchbar]').forEach(bar => {
+    $$('[data-branchbar], [data-orderbranch]').forEach(bar => {
       bar.classList.remove('is-pulse');
       void bar.offsetWidth;
       bar.classList.add('is-pulse');
@@ -777,6 +777,7 @@
     $('#page').inert = true;
     applyBranch();
     renderCart(false);
+    pulseBranchbar();
     $('[data-sheet] .sheet__panel').focus();
   }
   function closeCart() {
