@@ -65,6 +65,7 @@
   const BRANCHES = CFG.branches.filter(b => !b.hidden);
   let branch = BRANCHES.find(b => b.id === store.get('dober.branch.v1')) || BRANCHES[0];
   const branchOf = id => BRANCHES.find(b => b.id === id) || BRANCHES[0];
+  let forcedPickup = false;      // самовывоз включён сайтом, а не гостем
 
   function cityNow() {
     const d = new Date();
@@ -104,7 +105,14 @@
     store.set('dober.branch.v1', branch.id);
     applyBranch();
     if (form) {
-      if (!branch.delivery) form.elements.mode.value = 'pickup';
+      // точка без доставки: переключаем на самовывоз, но помним, чтобы вернуть доставку на следующей точке
+      if (!branch.delivery && form.elements.mode.value === 'delivery') {
+        forcedPickup = true;
+        form.elements.mode.value = 'pickup';
+      } else if (branch.delivery && forcedPickup) {
+        forcedPickup = false;
+        form.elements.mode.value = 'delivery';
+      }
       syncForm();
       renderCart(false);
     }
@@ -341,7 +349,7 @@
       const slot = actionSlots[id];
       if (hasChoice(item)) {
         slot.replaceChildren(el('button', {
-          type: 'button', class: 'btn btn--red add', text: qty ? t('Ещё · ') + qty : 'Выбрать',
+          type: 'button', class: 'btn btn--brand add', text: qty ? t('Ещё · ') + qty : 'Выбрать',
           'aria-label': t('Открыть: ') + item.name, onclick: () => openItem(item)
         }));
         return;
@@ -349,7 +357,7 @@
       slot.replaceChildren(qty > 0
         ? stepper(qty, q => (q > qty ? addToCart({ id }, 1) : decLast(id)), item.name + t(': количество'))
         : el('button', {
-          type: 'button', class: 'btn btn--red add', html: icon('plus') + t('Добавить'),
+          type: 'button', class: 'btn btn--brand add', html: icon('plus') + t('Добавить'),
           'aria-label': t('Добавить: ') + item.name, onclick: () => addToCart({ id }, 1)
         }));
     });
@@ -538,7 +546,7 @@
         (b.features || []).length ? el('div', { class: 'bcard__tags' }, b.features.map(f => el('span', { text: f }))) : null,
         el('div', { class: 'bcard__btns' }, [
           el('button', {
-            type: 'button', class: 'btn btn--red', text: b.id === branch.id ? 'Заказать отсюда' : 'Выбрать эту точку',
+            type: 'button', class: 'btn btn--brand', text: b.id === branch.id ? 'Заказать отсюда' : 'Выбрать эту точку',
             onclick: () => {
               setBranch(b.id, { silent: true });
               location.href = pageUrl('menu.html');
@@ -920,7 +928,7 @@
             el('b', { text: money(item.price) })
           ]),
           el('div', { class: 'deal__cta' }, [
-            el('a', { class: 'btn btn--red btn--lg', href: pageUrl('menu.html#item-' + item.id), text: 'Заказать по акции' })
+            el('a', { class: 'btn btn--brand btn--lg', href: pageUrl('menu.html#item-' + item.id), text: 'Заказать по акции' })
           ])
         ])
       );
@@ -981,7 +989,7 @@
   }
 
   // ─────────────────────────── отзывы ───────────────────────────
-  const AVA = ['#e11d2e', '#111113', '#e08b00', '#1a8f57', '#7a3ff2', '#0b7fab'];
+  const AVA = ['#111113', '#e8ae00', '#4a4a52', '#1a8f57', '#7a3ff2', '#0b7fab'];
   function initials(name) {
     const words = name.split(/\s+/).filter(w => /^[\p{L}]/u.test(w));
     const s = words.slice(0, 2).map(w => Array.from(w)[0].toUpperCase()).join('');
