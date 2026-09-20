@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Готовит фото блюд для сайта: data/photos/original/<хэш>.jpg → site/img/<слаг>.jpg (800 px)
-и site/img/<слаг>-sm.jpg (360 px, для плиток и подсказок). Работает через системный sips (macOS).
+и site/img/<слаг>-sm.jpg (360 px, для карточек и подсказок). Рядом кладёт .webp — сайт грузит
+их (вдвое легче), а .jpg остаётся запасным вариантом для старых браузеров.
+
+Работает через системный sips (macOS) и cwebp (brew install webp).
 
 Запуск:  python3 tools/build_images.py
 """
@@ -66,6 +69,14 @@ def sips(src, dst, size):
                    check=True, capture_output=True)
 
 
+def webp(jpg, quality=78):
+    """Кладёт рядом с jpg такой же .webp — примерно вдвое легче."""
+    out = jpg.with_suffix(".webp")
+    subprocess.run(["cwebp", "-quiet", "-q", str(quality), str(jpg), "-o", str(out)],
+                   check=True, capture_output=True)
+    return out
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     items = json.loads(RAW.read_text(encoding="utf-8"))["data"]["items"]
@@ -82,7 +93,8 @@ def main():
             continue
         sips(src, OUT / (slug + ".jpg"), 800)
         sips(src, OUT / (slug + "-sm.jpg"), 360)
-        print(slug, (OUT / (slug + ".jpg")).stat().st_size // 1024, "KB")
+        big, small = webp(OUT / (slug + ".jpg"), 80), webp(OUT / (slug + "-sm.jpg"), 78)
+        print(slug, big.stat().st_size // 1024, "KB /", small.stat().st_size // 1024, "KB (webp)")
     if missing:
         print("БЕЗ ФОТО:", ", ".join(missing))
 

@@ -26,6 +26,16 @@
     return node;
   }
 
+  // Фото: сайт запрашивает .webp (вдвое легче), старым браузерам подставляем .jpg
+  const webp = src => src.replace(/\.(jpg|png)$/, '.webp');
+  function photo(attrs) {
+    const original = attrs.src;
+    return el('img', Object.assign({}, attrs, {
+      src: webp(original),
+      onerror: e => { e.target.onerror = null; e.target.src = original; }
+    }));
+  }
+
   const group3 = (n, sep) => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, sep);
   const money = n => group3(n, ' ') + ' ' + CFG.currency;
   const plural = (n, forms) => {
@@ -291,7 +301,7 @@
         }
       }
     }, [
-      s.image ? el('img', { class: 'chip__img', src: s.image.replace('.jpg', '-sm.jpg'), alt: '', loading: 'lazy' })
+      s.image ? photo({ class: 'chip__img', src: s.image.replace('.jpg', '-sm.jpg'), alt: '', loading: 'lazy' })
         : el('span', { class: 'chip__e', text: s.emoji || '🍽️', 'aria-hidden': 'true' }),
       el('span', { text: s.label }),
       el('b', { text: '+' + money(s.price) })
@@ -342,7 +352,7 @@
         type: 'button', class: 'card__media', 'aria-label': t('Открыть: ') + item.name,
         onclick: () => openItem(item)
       }, [
-        item.image ? el('img', { src: item.image.replace('.jpg', '-sm.jpg'), alt: item.name, loading: 'lazy', width: 360, height: 360 }) : null,
+        item.image ? photo({ src: item.image.replace('.jpg', '-sm.jpg'), alt: item.name, loading: 'lazy', width: 360, height: 360 }) : null,
         itemBadges(item).length ? el('div', { class: 'card__badges' }, itemBadges(item)) : null
       ]),
       el('div', { class: 'card__body' }, [
@@ -452,7 +462,7 @@
 
     body.replaceChildren.apply(body, [
       item.image ? el('div', { class: 'itemhero' }, [
-        el('img', { src: item.image, alt: item.name, width: 800, height: 800 }),
+        photo({ src: item.image, alt: item.name, width: 800, height: 800 }),
         itemBadges(item).length ? el('div', { class: 'card__badges' }, itemBadges(item)) : null
       ]) : null,
       item.desc ? el('p', { class: 'itemdesc', text: item.desc }) : null
@@ -732,7 +742,7 @@
         type: 'button', class: 'cs__item', 'aria-label': t('Добавить: ') + s.label + ', ' + money(s.price),
         onclick: () => { addToCart(s.spec, 1, { silent: true }); toast(t('В корзине: ') + s.label); }
       }, [
-        s.image ? el('img', { class: 'cs__img', src: s.image.replace('.jpg', '-sm.jpg'), alt: '', loading: 'lazy' }) : null,
+        s.image ? photo({ class: 'cs__img', src: s.image.replace('.jpg', '-sm.jpg'), alt: '', loading: 'lazy' }) : null,
         el('span', { class: 'cs__n', text: s.label }),
         el('span', { class: 'cs__p', html: icon('plus') }, [document.createTextNode(money(s.price))])
       ])))
@@ -929,7 +939,7 @@
     if (box) {
       $('[data-promo]').hidden = false;
       box.replaceChildren(
-        el('div', { class: 'deal__media' }, [el('img', { src: item.image, alt: item.name, loading: 'lazy', width: 800, height: 800 })]),
+        el('div', { class: 'deal__media' }, [photo({ src: item.image, alt: item.name, loading: 'lazy', width: 800, height: 800 })]),
         el('div', { class: 'deal__body' }, [
           el('span', { class: 'deal__badge', html: icon('fire') }, [document.createTextNode(t('Акция сети'))]),
           el('h2', { text: promo.title }),
@@ -962,7 +972,7 @@
       const item = ITEMS[id];
       return el('a', { class: 'hit', href: pageUrl('menu.html#item-' + id) }, [
         el('span', { class: 'hit__media' }, [
-          item.image ? el('img', { src: item.image.replace('.jpg', '-sm.jpg'), alt: item.name, loading: 'lazy', width: 360, height: 360 }) : null,
+          item.image ? photo({ src: item.image.replace('.jpg', '-sm.jpg'), alt: item.name, loading: 'lazy', width: 360, height: 360 }) : null,
           itemBadges(item).length ? el('span', { class: 'card__badges' }, itemBadges(item)) : null
         ]),
         el('span', { class: 'hit__name', text: item.name }),
@@ -1098,7 +1108,9 @@
     const show = i => {
       index = (i + shots.length) % shots.length;
       const g = shots[index];
-      img.src = g.src; img.alt = g.alt;
+      img.onerror = () => { img.onerror = null; img.src = g.src; };
+      img.src = webp(g.src);
+      img.alt = g.alt;
       cap.textContent = g.alt + t(' · фото из меню сети');
     };
     const close = () => { box.hidden = true; document.body.classList.remove('is-locked'); $('#page').inert = false; if (opener) opener.focus(); };
@@ -1108,7 +1120,7 @@
         opener = e.currentTarget; show(i); box.hidden = false;
         document.body.classList.add('is-locked'); $('#page').inert = true; $('[data-lb-close]').focus();
       }
-    }, [el('img', { src: g.thumb, alt: g.alt, loading: 'lazy' })])));
+    }, [photo({ src: g.thumb, alt: g.alt, loading: 'lazy' })])));
     $('[data-lb-close]').addEventListener('click', close);
     $('[data-lb-prev]').addEventListener('click', () => show(index - 1));
     $('[data-lb-next]').addEventListener('click', () => show(index + 1));

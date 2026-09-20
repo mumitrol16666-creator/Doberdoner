@@ -46,6 +46,7 @@ button { font: inherit; }
 }
 .top__in { display: flex; align-items: center; gap: 18px; height: var(--head); }
 .logo { display: flex; align-items: center; gap: 9px; text-decoration: none; flex: none; }
+.logo picture { display: flex; }
 .logo__mark { width: auto; height: 30px; }
 .logo__txt { display: flex; flex-direction: column; line-height: .95; font-family: 'Oswald', sans-serif; }
 .logo__a { font-size: 19px; font-weight: 700; letter-spacing: .06em; }
