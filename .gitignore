@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.playwright-cli/
+
+# Оригиналы фото блюд (68 МБ) — скачиваются заново: python3 tools/fetch_menu.py
+data/photos/original/

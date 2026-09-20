@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "branch_rating": 4.8,
+  "branch_rating_is_confirmed": false,
+  "branch_reviews_count": 50,
+  "code": 200,
+  "providers": [
+   {
+    "is_reviewable": true,
+    "tag": "2gis"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "otello"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "booking"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "netmonet"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "tbank"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "sbertips"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "avito"
+   }
+  ],
+  "total_count": 0
+ },
+ "reviews": []
+}

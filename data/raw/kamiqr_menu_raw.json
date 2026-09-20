@@ -1,0 +1,4673 @@
+{
+ "url": "http://dober-doner.kamiqr.com/menu/delivery/list?current_section=330dbf9f-b35d-44c3-8cab-661a791b4b78",
+ "pathname": "/menu/delivery",
+ "data": {
+  "_id": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+  "timestamp": "2026-08-06T20:51:36.728188012+05:00",
+  "status": "ok",
+  "version": 281,
+  "orgId": "8081c4c1-1626-4158-9224-3e51a2597339",
+  "number": "394025084799",
+  "name": "Доставка",
+  "link": "delivery",
+  "subdomain": "dober-doner",
+  "i18N": {
+   "currency": "KZT",
+   "defaultLang": "RU",
+   "otherLangs": [
+    "KZ",
+    "EN"
+   ],
+   "defaultCountryCode": "KZ"
+  },
+  "orgAttrs": {
+   "name": "Dober_doner",
+   "logo": "",
+   "backgroundImg": "9164f05738d748788391aa315be35167.jpeg",
+   "desc": {
+    "EN": "CHEATING DONER-JUICY SHAVERMA \nNOTHING EXTRA - JUST TASTE🍔\n\nWe prepare for you from 10:00 to 00:00 (orders until 23:30)\n\nDelivery within the city is 800 tenge, for orders over 8000 tenge delivery is free!",
+    "KZ": "МЫҚТЫ ДОНЕР-ШЫРЫНДЫ ШАВЕРМА \nҚОСЫМША ЕШТЕҢЕ ЖОҚ – ТЕК ДӘМ 🍔\n\nБіз сіздерге 10:00-ден 00:00-ге дейін дайындаймыз (23:30-ға дейін тапсырыстар)\n\nҚала ішінде жеткізу 800 теңге, 8000 теңгеден жоғары тапсырыстар үшін жеткізу тегін!",
+    "RU": "НИЧЕГО ЛИШНЕГО-ТОЛЬКО ВКУС🍔\n\nГотовим для Вас с 10:00 до 00:00 (заказы принимаем до 23:30)\n\nДоставка по городу 800тг, на заказ от 8000тг доставка бесплатная!"
+   },
+   "address": {
+    "EN": "Aktobe\nSt. Nagashbai Shaikenova 20\nEset-Batyr St. 83",
+    "KZ": "Ақтөбе\nНағашбай Шайкенова 20\nЕсет-Батыр көшесі, 83",
+    "RU": "г.Актобе\nУл. Нагашбай Шайкенова 20\nУл.Есет-Батыра 83\nCity Shopping Center 12мкр 21л"
+   },
+   "schedule": {
+    "EN": "from 10:00 to 00:00\nWe accept orders until 23:30",
+    "KZ": "10:00-ден 00:00-ге дейін\nСағат 23:30-ға дейін тапсырыс қабылдаймыз",
+    "RU": " с 10:00 до 00:00\nЗаказы принимаем до 23:30\n"
+   },
+   "phoneContacts": [
+    {
+     "number": "+77783869447",
+     "countryCode": "KZ",
+     "label": {}
+    }
+   ],
+   "whatsapp": {
+    "number": "+77783869447",
+    "countryCode": "KZ"
+   },
+   "instagram": "https://www.instagram.com/dober__doner/",
+   "facebook": "https://www.facebook.com/doberdoner/",
+   "tiktok": "",
+   "side": ""
+  },
+  "linkGroups": [
+   {
+    "groupName": {
+     "EN": "Contact us",
+     "KZ": "Бізбен хабарласу",
+     "RU": "Связаться с нами "
+    },
+    "links": [
+     {
+      "caption": {
+       "EN": "Our WhatsApp",
+       "KZ": "Біздің WhatsApp",
+       "RU": "Наш WhatsApp"
+      },
+      "url": "https://wa.me/77783869447"
+     },
+     {
+      "caption": {
+       "EN": "We are in 2GIS",
+       "KZ": "Біз 2GIS-те",
+       "RU": "Мы в 2GIS"
+      },
+      "url": "https://go.2gis.com/M9Y68"
+     },
+     {
+      "caption": {
+       "EN": "Reviews and suggestions, communication with the administrator",
+       "KZ": "Пікірлер мен ұсыныстар, әкімшімен байланысу",
+       "RU": "Связь с администратором "
+      },
+      "url": "https://wa.me/77011893885"
+     },
+     {
+      "caption": {
+       "EN": "Franchise",
+       "KZ": "Франшиза",
+       "RU": "Франшиза"
+      },
+      "url": "https://dober-doner.ifa-tsc.kz/?fbclid=PAAabiZEn-KXED6yVkSKA516H-h595lwxZV_c6Mt09mnDSwwV7rQvDbfrPoGM_aem_AZHHmxtKEgq_3ZeE5PPhUxknQJme3JpAu2kKnij8Zaq4tweJ5wYtEwbpKG1_ZbtSbJY"
+     },
+     {
+      "caption": {
+       "EN": "Orders in Khromtau",
+       "KZ": "Хромтауға тапсырыс беру",
+       "RU": "Заказы в Хромтау "
+      },
+      "url": "https://wa.me/77002608397"
+     },
+     {
+      "caption": {
+       "EN": "Leave feedback",
+       "KZ": "Пікір қалдыру",
+       "RU": "Оставить отзыв"
+      },
+      "url": "https://dober-doner.kamiqr.com/feedback/PojRUZ"
+     }
+    ]
+   }
+  ],
+  "tree": {
+   "sections": [
+    {
+     "sectionId": "330dbf9f-b35d-44c3-8cab-661a791b4b78",
+     "categories": [
+      {
+       "categoryId": "78ce68fe-0f13-48bd-bd31-b81926563851",
+       "items": [
+        {
+         "itemId": "490557ee-2722-4143-97e0-442e87e02258"
+        },
+        {
+         "itemId": "93f235e6-beab-449d-8048-a1399e7f9226"
+        },
+        {
+         "itemId": "a1a2d871-f090-416c-b473-d787bd2b21e1"
+        },
+        {
+         "itemId": "9c82f534-cad1-4649-8c70-87cd9afde418"
+        },
+        {
+         "itemId": "a13577b8-4138-4972-b6b9-91e2ebc4adb8"
+        },
+        {
+         "itemId": "09c558c1-3fe8-42c3-a8c6-e62798e2a95a"
+        },
+        {
+         "itemId": "840be0fd-a2b8-4203-bcba-849ec99afa18"
+        },
+        {
+         "itemId": "7578a240-9865-4124-a01c-cf8fb7ac21b9"
+        },
+        {
+         "itemId": "4b936f52-a2f2-4738-8c54-ff3b07c1336e"
+        }
+       ]
+      },
+      {
+       "categoryId": "5e393193-ff0e-4d1a-99dd-3c947f2ac122",
+       "items": [
+        {
+         "itemId": "950a1566-6947-45eb-9693-34d8a10e4e32"
+        },
+        {
+         "itemId": "de88d7d6-c1c3-4d12-94f3-c1bfcbf5c51f"
+        },
+        {
+         "itemId": "aa605b10-9d23-460e-8899-a508d348b823"
+        },
+        {
+         "itemId": "bfee9f58-86c6-4a7d-bdb6-49d85891ddcf"
+        },
+        {
+         "itemId": "88f576ac-bd3b-4fd2-937a-542dc00365a0"
+        },
+        {
+         "itemId": "b17930da-0e94-4083-b731-dc16682975d9"
+        },
+        {
+         "itemId": "d50a733c-9197-4a31-8785-b229267cd0d7"
+        },
+        {
+         "itemId": "044b0b8a-e438-4f49-9c78-1252873016e6"
+        }
+       ]
+      },
+      {
+       "categoryId": "255c3da5-901a-4b57-ab61-155931ea6db6",
+       "items": [
+        {
+         "itemId": "ad24ba72-8974-4c4b-a8c3-0327b89bab59"
+        }
+       ]
+      },
+      {
+       "categoryId": "6c4e0321-3fe8-48d7-a198-899c68da23a8",
+       "items": [
+        {
+         "itemId": "222636ad-44a7-4947-a3ee-23952d016205"
+        },
+        {
+         "itemId": "3d4b63ce-130d-4c75-91b0-96935f1403e2"
+        },
+        {
+         "itemId": "800c680f-8d7e-4829-b14f-4acc965091a1"
+        },
+        {
+         "itemId": "b8e1ff82-4e4b-4dfe-ba6d-4a42aa747934"
+        },
+        {
+         "itemId": "0b8921af-c024-4703-9cc0-d2f24c59a81a"
+        }
+       ]
+      },
+      {
+       "categoryId": "69b31e3d-308f-4950-b423-70b0f9ad1787",
+       "items": [
+        {
+         "itemId": "79580268-b008-449b-9aa8-3f1a6012f259"
+        },
+        {
+         "itemId": "14ca77dd-fbbd-4f4e-95f6-c42571afef55"
+        },
+        {
+         "itemId": "b654b74d-b92f-4ba9-9fb7-a5a7f2e38252"
+        },
+        {
+         "itemId": "ca4b03c7-e330-46de-b94a-b7d28194d9ee"
+        },
+        {
+         "itemId": "d0061933-9015-48f4-b897-10c4b56112c8"
+        },
+        {
+         "itemId": "ae99815a-fa15-474d-b652-05168810cb68"
+        },
+        {
+         "itemId": "b0d06eff-e628-4ea3-91b5-77b41bc07459"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "sectionId": "8cc993e4-65f8-4f9f-839f-6c6281266313",
+     "categories": [
+      {
+       "categoryId": "7cc5ae78-6a3c-4ccd-8bbb-53741649dd28",
+       "items": [
+        {
+         "itemId": "cac36116-a693-48c2-b7c5-77a3a16b44a8"
+        },
+        {
+         "itemId": "748966c7-543e-4d53-9907-997ea4446b57"
+        },
+        {
+         "itemId": "e1624bf4-0347-4777-9a93-4515b17b10e5"
+        },
+        {
+         "itemId": "815646ea-4665-4c18-8fce-951bbfb2ffa4"
+        },
+        {
+         "itemId": "4295d7e2-6a8f-4dbd-b2d0-ccf20fa07e95"
+        },
+        {
+         "itemId": "68877bdb-8fbe-42c7-b44b-74f252363bbf"
+        }
+       ]
+      },
+      {
+       "categoryId": "ce104e71-573f-48d5-9a87-d16361b2aa09",
+       "items": [
+        {
+         "itemId": "46272150-dcbb-4933-93b3-a616f106e4fd"
+        },
+        {
+         "itemId": "a77326e0-b8dc-4d76-b684-b319e92e1ba1"
+        },
+        {
+         "itemId": "7528022c-8933-4596-9cd2-cf66576b2dc9"
+        },
+        {
+         "itemId": "69a4fac7-7e08-498d-92ae-ee2065750950"
+        },
+        {
+         "itemId": "d0e9c276-e962-4706-b401-21011f4b9157"
+        },
+        {
+         "itemId": "3d88c926-e4f9-450f-91a1-00dbeeb1b568"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "sections": {
+   "330dbf9f-b35d-44c3-8cab-661a791b4b78": {
+    "_id": "330dbf9f-b35d-44c3-8cab-661a791b4b78",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "img": "f1b3695e84b94753ab06e77f8d936321.jpeg",
+    "isHidden": false,
+    "name": {
+     "EN": "Main menu",
+     "KZ": "Негізгі мәзір",
+     "RU": "МЕНЮ"
+    },
+    "availability": {
+     "monday": null,
+     "tuesday": null,
+     "wednesday": null,
+     "thursday": null,
+     "friday": null,
+     "saturday": null,
+     "sunday": null,
+     "timezone": "Asia/Almaty"
+    }
+   },
+   "8cc993e4-65f8-4f9f-839f-6c6281266313": {
+    "_id": "8cc993e4-65f8-4f9f-839f-6c6281266313",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "img": "bd500c9c85b54a97807370a3b0a9f6e7.webp",
+    "isHidden": false,
+    "name": {
+     "EN": "Drinks menu",
+     "KZ": "Сусындар мәзірі",
+     "RU": "Напитки"
+    },
+    "availability": {
+     "monday": null,
+     "tuesday": null,
+     "wednesday": null,
+     "thursday": null,
+     "friday": null,
+     "saturday": null,
+     "sunday": null,
+     "timezone": "Asia/Almaty"
+    }
+   }
+  },
+  "slides": [
+   {
+    "id": "4be2b135-5a19-4201-9be1-f19728b84d69",
+    "img": "2a880170bab04ffbad2b20a057ba5e3b.jpeg",
+    "text": {},
+    "url": null
+   },
+   {
+    "id": "0d516f7e-7847-47ff-8109-7652d93ed5af",
+    "img": "ddae0d70e5fc4fa2aa347ada1d69e76c.jpeg",
+    "text": {},
+    "url": null
+   },
+   {
+    "id": "2b290780-e8b7-4d67-beb5-c829121894f0",
+    "img": "6bcb101cb3774452aa6399bb95dc0865.jpeg",
+    "text": {},
+    "url": null
+   },
+   {
+    "id": "f4d88a07-1ca4-4af9-945b-44c8fe23a937",
+    "img": "6b83beb38b6e44fe84ce9a4cc5c5f99f.jpeg",
+    "text": {},
+    "url": null
+   },
+   {
+    "id": "539d6b7c-2106-4810-8925-902f626c79ce",
+    "img": "8fbc6ac1177f483d987572f26fdc5a40.jpeg",
+    "text": {},
+    "url": null
+   }
+  ],
+  "categories": {
+   "255c3da5-901a-4b57-ab61-155931ea6db6": {
+    "_id": "255c3da5-901a-4b57-ab61-155931ea6db6",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "EN": "Chicken",
+     "KZ": "Чикен",
+     "RU": "ЧИКЕНЫ"
+    }
+   },
+   "5e393193-ff0e-4d1a-99dd-3c947f2ac122": {
+    "_id": "5e393193-ff0e-4d1a-99dd-3c947f2ac122",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "EN": "Burgers",
+     "KZ": "Бургерлер",
+     "RU": "БУРГЕРЫ"
+    }
+   },
+   "69b31e3d-308f-4950-b423-70b0f9ad1787": {
+    "_id": "69b31e3d-308f-4950-b423-70b0f9ad1787",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "EN": "Additionally",
+     "KZ": "Қосымша",
+     "RU": "Дополнительно"
+    }
+   },
+   "6c4e0321-3fe8-48d7-a198-899c68da23a8": {
+    "_id": "6c4e0321-3fe8-48d7-a198-899c68da23a8",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "EN": "Side dishes",
+     "KZ": "Гарнирлер",
+     "RU": "ГАРНИРЫ"
+    }
+   },
+   "78ce68fe-0f13-48bd-bd31-b81926563851": {
+    "_id": "78ce68fe-0f13-48bd-bd31-b81926563851",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "RU": "ДОБЕРЫ"
+    }
+   },
+   "7cc5ae78-6a3c-4ccd-8bbb-53741649dd28": {
+    "_id": "7cc5ae78-6a3c-4ccd-8bbb-53741649dd28",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "RU": "Coca Cola"
+    }
+   },
+   "ce104e71-573f-48d5-9a87-d16361b2aa09": {
+    "_id": "ce104e71-573f-48d5-9a87-d16361b2aa09",
+    "createdAt": "",
+    "desc": {},
+    "editedAt": "",
+    "isHidden": false,
+    "name": {
+     "RU": "Другое"
+    }
+   }
+  },
+  "items": {
+   "044b0b8a-e438-4f49-9c78-1252873016e6": {
+    "_id": "044b0b8a-e438-4f49-9c78-1252873016e6",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "2b52c0b4b02f4385a6ea0a2e83ea0085.jpeg",
+    "name": {
+     "EN": "Signature burger \"DOBERMAN\"",
+     "KZ": "Фирмалық  \"DOBERMAN\" бургері",
+     "RU": "Бургер фирменный \"DOBERMAN\""
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra cheddar cheese",
+        "KZ": "Қосымша чеддар ірімшігі",
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Без лука"
+       },
+       "priceDelta": 0
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "EN": "Spicy level",
+        "KZ": "Ащы деңгей",
+        "RU": "Степень остроты"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "EN": "Not sharp",
+          "KZ": "Өткір емес",
+          "RU": "Не острый "
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "EN": "Medium-hot",
+          "KZ": "Орташа ыстық",
+          "RU": "Средне-острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "EN": "Spicy",
+          "KZ": "Ащы",
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа"
+      },
+      "oldPrice": 0,
+      "price": 371000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Две котлеты&nbsp; говяжья и куриная с салатом айсберг, фасолью, свежим помидором, сырами чеддер и моцарелла, под соусами лечо, BBQ, чимичури, аджика и двумя видами горчицы&nbsp; сладкой и французской, в мягкой булочке.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Bun, sauce (lecho, red onion, jalapeno), adjika, iceberg, beef cutlet, chicken cutlet, sweet mustard, double cheddar cheese, mozzarella, beans, BBQ. tomatoes, chimichurri sauce, French mustard",
+      "KZ": "Тоқаш, соус лечо (қызыл пияз, халапеньо,кетчуп), аджика, айсберг, сиыр еті котлеті, тауық еті, тәтті қыша, чеддер ірімшігі, моцарелла, үрме бұршақ, барбекю, қызанақ, чимичури соусы, француз қыша",
+      "RU": "Булочка, соус лечо (лук красный, халапеньо, кетчуп), аджика, айсберг, котлета говяжья, котлета куриная, сладкая горчица, сыр чеддер, моцарелла, фасоль, BBQ, помидоры, соус чимичури, французская горчица"
+     },
+     "tags": {
+      "EN": "Spicy",
+      "KZ": "Ащы",
+      "RU": "Острый"
+     }
+    }
+   },
+   "09c558c1-3fe8-42c3-a8c6-e62798e2a95a": {
+    "_id": "09c558c1-3fe8-42c3-a8c6-e62798e2a95a",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "3ad459de629b4577ab6486f3c3917da8.png",
+    "name": {
+     "RU": "Черная Жемчужина "
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Сыр"
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Айоли соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидоры"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные "
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери начинку "
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина "
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне-острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Черный лаваш, пекинская капуста, картофель, жареные шампиньоны, огурцы маринованные,два секретных соуса капитана (секрет спрятан глубже трюма) , щепотка пиратского характера&nbsp;&nbsp;</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Хо-хо-хо и ты в плену вкуса "
+     },
+     "tags": {}
+    }
+   },
+   "0b8921af-c024-4703-9cc0-d2f24c59a81a": {
+    "_id": "0b8921af-c024-4703-9cc0-d2f24c59a81a",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "ecbf8da60d6444dd98727bdb13ae3012.png",
+    "name": {
+     "RU": "Нагетсы"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Добавь соус"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Сырный соус"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Кетчуп"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Белый соус"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "BBQ"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Сладкий Чили"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Медово-чесночный"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Без соуса"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "10шт"
+       },
+       "oldPrice": 0,
+       "price": 150000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "5шт"
+      },
+      "oldPrice": 0,
+      "price": 85000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "14ca77dd-fbbd-4f4e-95f6-c42571afef55": {
+    "_id": "14ca77dd-fbbd-4f4e-95f6-c42571afef55",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "b64677cef9ed41ae8e0691dbfa32a163.png",
+    "name": {
+     "EN": "Cheese sauce",
+     "KZ": "Ірімшік тұздық",
+     "RU": "Соус сырный"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 30000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "222636ad-44a7-4947-a3ee-23952d016205": {
+    "_id": "222636ad-44a7-4947-a3ee-23952d016205",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "871b797069974ae68bf1e58cc375c9ca.jpeg",
+    "name": {
+     "EN": "French fries",
+     "KZ": "Фри картобы",
+     "RU": "Картофель фри"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Добавь соус"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Без соуса"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Сырный соус"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Кетчуп"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Белый соус"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "BBQ"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Сладкий чили"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Медово-чесночный"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 80000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "3d4b63ce-130d-4c75-91b0-96935f1403e2": {
+    "_id": "3d4b63ce-130d-4c75-91b0-96935f1403e2",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "87d345a2002c469ebb23fb193ab6e25b.jpeg",
+    "name": {
+     "EN": "Potato wedges",
+     "KZ": "Картоп тіліктер",
+     "RU": "Картофельные дольки"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Добавь соус"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Без соуса"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Сырный соус"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Кетчуп"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Белый соус"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "BBQ"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Сладкий чили"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Медово-чесночный"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 100000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "3d88c926-e4f9-450f-91a1-00dbeeb1b568": {
+    "_id": "3d88c926-e4f9-450f-91a1-00dbeeb1b568",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "3d243861593e40e09643e13108df1fc3.jpeg",
+    "name": {
+     "RU": "Piko Pulpy в ассортименте "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 130000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 90000
+     }
+    },
+    "specs": {
+     "carbs": 10,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 44,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "4295d7e2-6a8f-4dbd-b2d0-ccf20fa07e95": {
+    "_id": "4295d7e2-6a8f-4dbd-b2d0-ccf20fa07e95",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "4a3df6e9ef9f4452bf556043fbd8e3c8.png",
+    "name": {
+     "RU": "Coca Cola Zero"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "0.5"
+       },
+       "oldPrice": 0,
+       "price": 70000
+      },
+      {
+       "label": {
+        "RU": "ЖБ"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "1л"
+      },
+      "oldPrice": 0,
+      "price": 95000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "46272150-dcbb-4933-93b3-a616f106e4fd": {
+    "_id": "46272150-dcbb-4933-93b3-a616f106e4fd",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "4cd591bab56d4d04ba00502efa7afc50.jpeg",
+    "name": {
+     "EN": "Dried fruit compote 1l.",
+     "KZ": "Кептірілген жеміс компоты 1л.",
+     "RU": "Компот из сухофруктов "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 55000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Когда-то бабушки варили его в огромных кастрюлях, а теперь он здесь – насыщенный, ароматный, пропитанный солнечными фруктами. Без химии, без лишнего сахара – только натуральный вкус."
+     },
+     "tags": {}
+    }
+   },
+   "490557ee-2722-4143-97e0-442e87e02258": {
+    "_id": "490557ee-2722-4143-97e0-442e87e02258",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "365148fd6c5548a9910cdf1e0fa59060.jpeg",
+    "name": {
+     "EN": "Doner Standard",
+     "KZ": "Дөнер Стандарт",
+     "RU": "DOBER STAR"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Cheddar cheese",
+        "KZ": "Чеддер ірімшігі",
+        "RU": "Сыр "
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra chicken",
+        "KZ": "Қосымша тауық еті",
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra beef (minced)",
+        "KZ": "Қосымша сиыр еті (фарш)",
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидор"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Айоли соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча "
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери начинку"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина (фарш)"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери Лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной "
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери Остроту"
+       },
+       "isHidden": false,
+       "isRequired": false,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "EN": "With beef",
+        "KZ": "Сиыр етімен",
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "EN": "Assorted",
+        "KZ": "Ассорти",
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "EN": "With Chiken",
+       "KZ": "Тауық етімен",
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Донер с мясом на выбор, жареным картофелем, маринованными огурчиками, свежими помидорами, с нежным айоли и фирменным соусом, в хрустящем лаваше.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Fried potatoes, two types of sauce, vegetables, chicken or beef.",
+      "KZ": "Қуырылған картоп, тұздықтың екі түрі, көкөніс, тауық еті немесе сиыр еті.",
+      "RU": "Картофель жареный, соус айоли, соус фирменный, огурцы маринованные, помидоры, курица или говядина"
+     },
+     "tags": {}
+    }
+   },
+   "4b936f52-a2f2-4738-8c54-ff3b07c1336e": {
+    "_id": "4b936f52-a2f2-4738-8c54-ff3b07c1336e",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "9e161134f9d64e16a560790fd40aa6b1.jpeg",
+    "name": {
+     "EN": "DO",
+     "KZ": "ЖАСАУ",
+     "RU": "ПО-БРАТСКИ"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери мясо"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне-острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": false,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 168000,
+       "price": 129000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 198000,
+       "price": 159000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "M"
+      },
+      "oldPrice": 138000,
+      "price": 99000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Сочный донер с картофелем фри, свежими овощами и фирменными соусами</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "По-братски сделай хорошую цену"
+     },
+     "tags": {
+      "RU": "АКЦИЯ"
+     }
+    }
+   },
+   "68877bdb-8fbe-42c7-b44b-74f252363bbf": {
+    "_id": "68877bdb-8fbe-42c7-b44b-74f252363bbf",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "4ea83efba9d44e88abef634916050b40.png",
+    "name": {
+     "RU": "Fanta Granat"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "RU": "0,45л ЖБ"
+      },
+      "oldPrice": 0,
+      "price": 75000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p><br></p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Состав: газированная вода, сахар, регулятор кислотности (лимонная кислота), концентрат моркови и сафлора, карамельный краситель, консервант (сорбат калия, бензоат натрия), ароматизаторы, эмульгатор (камедь акации, глицериновый эфир дресевной канифоли), подсластитель (гликозиды стевиола)"
+     },
+     "tags": {}
+    }
+   },
+   "69a4fac7-7e08-498d-92ae-ee2065750950": {
+    "_id": "69a4fac7-7e08-498d-92ae-ee2065750950",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "a9e71208612146b88230d7bf3705a1ea.png",
+    "name": {
+     "RU": "BonAqua"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 50000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 40000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Ничего лишнего- только вода"
+     },
+     "tags": {}
+    }
+   },
+   "748966c7-543e-4d53-9907-997ea4446b57": {
+    "_id": "748966c7-543e-4d53-9907-997ea4446b57",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "0a03e0d2e32142a4923a8705eb6dc9d9.png",
+    "name": {
+     "RU": "Sprite"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 95000
+      },
+      {
+       "label": {
+        "RU": "В стекле 0,25л"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      },
+      {
+       "label": {
+        "RU": "ЖБ"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 70000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "7528022c-8933-4596-9cd2-cf66576b2dc9": {
+    "_id": "7528022c-8933-4596-9cd2-cf66576b2dc9",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "714d5e92c05640098a8585777de5d39e.jpeg",
+    "name": {
+     "EN": "Turkish Ayran",
+     "KZ": "Түрік айран",
+     "RU": "Турецкий Айран"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 45000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "7578a240-9865-4124-a01c-cf8fb7ac21b9": {
+    "_id": "7578a240-9865-4124-a01c-cf8fb7ac21b9",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "0f99145611004110872e81702d197fa5.png",
+    "name": {
+     "RU": "DOBER Louis za Verton"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Сыр"
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Айоли соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидор"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук "
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери начинку"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина (фарш)"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Лаваш, картофель, свежие овощи( помидоры,огурцы, пекинская капуста), кукуруза,сыр креметте,сладкая горчица,</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Луии за..."
+     },
+     "tags": {}
+    }
+   },
+   "79580268-b008-449b-9aa8-3f1a6012f259": {
+    "_id": "79580268-b008-449b-9aa8-3f1a6012f259",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "a845fa8a8d47400d9698622af7831912.jpeg",
+    "name": {
+     "EN": "BBQ sauce",
+     "KZ": "Тұздық BBQ",
+     "RU": "Соус BBQ"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 30000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "800c680f-8d7e-4829-b14f-4acc965091a1": {
+    "_id": "800c680f-8d7e-4829-b14f-4acc965091a1",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "7eb7ce0cec204ec18a05cd06fa6e505c.jpeg",
+    "name": {
+     "EN": "Dobers",
+     "KZ": "Доберстер",
+     "RU": "Доберсы"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "250 gr.",
+       "KZ": "250 гр.",
+       "RU": "250 гр."
+      },
+      "oldPrice": 0,
+      "price": 250000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 15,
+     "cookingTimeTo": 20,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Juicy chicken fillet, breaded and fried. Served with remoulade sauce.",
+      "KZ": "Қытырлақ қуырылған тауық еті. Ремулад тұздығымен бірге ұсынылады",
+      "RU": "Сочное куриное филе, обжаренное в панировке. Подается с соусом ремулад "
+     },
+     "tags": {
+      "EN": "new",
+      "KZ": "new"
+     }
+    }
+   },
+   "815646ea-4665-4c18-8fce-951bbfb2ffa4": {
+    "_id": "815646ea-4665-4c18-8fce-951bbfb2ffa4",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "368f832b9c394e78aba2ed7754c940f4.png",
+    "name": {
+     "EN": "Lipton tea",
+     "KZ": "Lipton шайы",
+     "RU": "Чай FuseTea в ассортименте "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1 л"
+       },
+       "oldPrice": 0,
+       "price": 95000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 70000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "840be0fd-a2b8-4203-bcba-849ec99afa18": {
+    "_id": "840be0fd-a2b8-4203-bcba-849ec99afa18",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "2369fcd58d05463ab2958cdc8fbd5067.jpeg",
+    "name": {
+     "EN": "Doner Chimichurri",
+     "KZ": "Дөнер Чимичури ",
+     "RU": "Джимиччури"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Сыр "
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус айоли"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидоры"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь ЧА"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери начинку"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "EN": "With beef",
+        "KZ": "Сиыр етімен",
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "EN": "Assorted",
+        "KZ": "Ассорти",
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "EN": "With Chiken",
+       "KZ": "Тауық етімен",
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Пикантный донер с курицей или говядиной, жареным картофелем, маринованными огурчиками, свежими помидорами,соусом айоли,салатом айсберг, соусом чимичури с халапеньо, в хрустящем лаваше.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Fried potatoes, aioli sauce, vegetables, iceberg, chimichurri sauce, jalapeno, chicken or beef.",
+      "KZ": "Қуырылған картоп, айоли соусы, көкөністер, айсберг, чимичури соусы, халапеньо, тауық немесе сиыр еті.",
+      "RU": "Картофель жареный, соус айоли, огурцы маринованные, помидоры, салат айсберг, соус чимичури, маринованный халапеньо, курица или говядина"
+     },
+     "tags": {
+      "EN": "Spicy",
+      "KZ": "Ащы"
+     }
+    }
+   },
+   "88f576ac-bd3b-4fd2-937a-542dc00365a0": {
+    "_id": "88f576ac-bd3b-4fd2-937a-542dc00365a0",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "4d347f5fb8864373a024fa054cf5e9e5.png",
+    "name": {
+     "RU": "Джиперс Криперс"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 334000
+     }
+    },
+    "specs": {
+     "carbs": 50,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 35,
+     "fullDesc": {
+      "RU": "<p>Сочный куриный бургер с чеддером, свежими помидорами, хрустящим айсбергом, соусом BBQ и нашим фирменным соусом, а также с легким акцентом луковых колец.&nbsp;</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 30,
+     "shortDesc": {
+      "RU": "Страшно вкусно "
+     },
+     "tags": {}
+    }
+   },
+   "93f235e6-beab-449d-8048-a1399e7f9226": {
+    "_id": "93f235e6-beab-449d-8048-a1399e7f9226",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "8ca31c4a18ef48399c679975133c8744.jpeg",
+    "name": {
+     "RU": "DOBER DONER "
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Сыр"
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус Айоли"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидоры "
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус "
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери начинку"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне-острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Свежие помидоры и огурцы, пекинская капуста, картофель, три фирменных соуса и мясо на выбор (курица или говядина)</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Новинка! Пробовать обязательно!"
+     },
+     "tags": {}
+    }
+   },
+   "950a1566-6947-45eb-9693-34d8a10e4e32": {
+    "_id": "950a1566-6947-45eb-9693-34d8a10e4e32",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "9df9f53f45c146b8a87447034fc2daaf.jpeg",
+    "name": {
+     "RU": "Чики Брики"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 218000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Сочный куриный бургер с чеддером, айсбергом, маринованными огурцами и соусами BBQ и кетчуп.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Чики Брики и бургер уже в руке "
+     },
+     "tags": {}
+    }
+   },
+   "9c82f534-cad1-4649-8c70-87cd9afde418": {
+    "_id": "9c82f534-cad1-4649-8c70-87cd9afde418",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "65ea5c5c1f794b378f62a8020471d1d7.jpeg",
+    "name": {
+     "RU": "ПП-шнейница"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Сыр"
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Айоли соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидор"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы Маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери мясо"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Курица"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Говядина"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ассорти"
+         },
+         "priceDelta": 20000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "EN": "with beef",
+        "KZ": "сиыр етімен",
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p><span style=\"font-family: Rubik, sans-serif;\">Свежие помидоры и огурцы, пекинская капуста, морковь по корейски, два фирменных соуса и мясо на выбор (кур</span>и<span style=\"box-sizing: border-box; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Rubik, sans-serif;\">ца или говядина)</span></p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "ВАТАФА "
+     },
+     "tags": {}
+    }
+   },
+   "a13577b8-4138-4972-b6b9-91e2ebc4adb8": {
+    "_id": "a13577b8-4138-4972-b6b9-91e2ebc4adb8",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "0bebfc12afc041f99ad0e5029cae17f9.jpeg",
+    "name": {
+     "EN": "Doner Mushroom",
+     "KZ": "Саңырауқұлақ қосылған дөнер",
+     "RU": "GRIBOEDOV"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Cheddar cheese",
+        "KZ": "Чеддер ірімшігі",
+        "RU": "Сыр "
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra chicken",
+        "KZ": "Қосымша тауық еті",
+        "RU": "Соус Айоли"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra beef",
+        "KZ": "Қосымша сиыр еті",
+        "RU": "Помидоры"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус белый"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Средне острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа",
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>В хрустящем лаваше&nbsp; жареный картофель, нежные грибы, маринованные огурцы, свежие помидоры, соусы айоли, ремулад и грибной, с акцентом луковых чипсов.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Fried potatoes, aioli sauce, remoulade sauce, vegetables, fried mushrooms, mushroom sauce, onion chips",
+      "KZ": "Қуырылған картоп, айоли соусы, ремулад соусы, көкөніс, қуырылған саңырауқұлақ, саңырауқұлақ соусы, пияз чипсы",
+      "RU": "Картофель жареный, соус айоли, соус ремулад, огурцы маринованные, помидоры, грибы жареные, соус ремулад, луковые чипсы"
+     },
+     "tags": {
+      "EN": "HIT",
+      "KZ": "ХИТ",
+      "RU": "ХИТ"
+     }
+    }
+   },
+   "a1a2d871-f090-416c-b473-d787bd2b21e1": {
+    "_id": "a1a2d871-f090-416c-b473-d787bd2b21e1",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "2c3d816bb9ee45c2927aeb3539e3fb24.jpeg",
+    "name": {
+     "EN": "Doner Mexican",
+     "KZ": "Мексикалық дөнер",
+     "RU": "DOBER MEKS"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Cheddar cheese",
+        "KZ": "Чеддер ірімшігі",
+        "RU": "Сыр "
+       },
+       "priceDelta": 30000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус Айоли"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы маринованные"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Огурцы свежие "
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Маринованный лук"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Перчик"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Белый соус"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Кетчуп"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Соус BBQ"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Морковь Ча"
+       },
+       "priceDelta": 15000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Помидоры"
+       },
+       "priceDelta": 15000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Выбери остроту"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Не острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Средне острый"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Выбери лаваш"
+       },
+       "isHidden": false,
+       "isRequired": false,
+       "options": [
+        {
+         "label": {
+          "RU": "Ручной"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Армянский"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Черный"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "RU": "L"
+       },
+       "oldPrice": 0,
+       "price": 168000
+      },
+      {
+       "label": {
+        "RU": "XL"
+       },
+       "oldPrice": 0,
+       "price": 198000
+      }
+     ],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа",
+       "RU": "M"
+      },
+      "oldPrice": 0,
+      "price": 138000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Охотничьи говяжьи колбаски с жареным картофелем, сладкой кукурузой, маринованными огурчиками и свежими помидорами,с нежным айоли и фирменным соусом, с жгучим акцентом халапеньо, в хрустящем лаваше.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Fried potatoes, two types of sauce, sausages, hot sauce, pickled jalapenos, corn, vegetables",
+      "KZ": "Қуырылған картоп, соустың екі түрі, шұжық, ащы соус, маринадталған халапеньо, жүгері, көкөніс",
+      "RU": "Картофель жареный, соус айоли, соус фирменный, охотничи говяжьи колбаски, острый соус, маринованный халапеньо, кукуруза, огурцы маринованные, помидоры"
+     },
+     "tags": {
+      "EN": "Spicy, HIT",
+      "KZ": "Ащы, ХИТ",
+      "RU": "Острый,ХИТ"
+     }
+    }
+   },
+   "a77326e0-b8dc-4d76-b684-b319e92e1ba1": {
+    "_id": "a77326e0-b8dc-4d76-b684-b319e92e1ba1",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "0af8c065807c4eb9ab3a92b899092ab3.png",
+    "name": {
+     "EN": "Juice DADA with a straw",
+     "KZ": "Түтікшесі бар DADA шырыны",
+     "RU": "Сок с трубочкой Piko в ассортименте "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 55000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "aa605b10-9d23-460e-8899-a508d348b823": {
+    "_id": "aa605b10-9d23-460e-8899-a508d348b823",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "e2ec3dff23b84b04a9edd591f18c61a7.jpeg",
+    "name": {
+     "EN": "Burger \"Tender bastard\"",
+     "KZ": "Бургер \"Ласковый мерзавец\"",
+     "RU": "Ласковый мерзавец"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа"
+      },
+      "oldPrice": 0,
+      "price": 266000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Куриная котлета с жареными грибами, помидорами и сыром моцарелла, под соусами айоли, ремулад, грибным и BBQ, с луковыми чипсами&nbsp; в мягкой булочке.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Bun, remoulade sauce, onion chips, tomatoes, chicken cutlet, mozzarella cheese, BBQ sauce. fried mushrooms, mushroom sauce",
+      "KZ": "Тоқаш, ремулад соусы, пияз чипсы, қызанақ, тауық еті котлеті, моцарелла ірімшігі, барбекю соусы, қуырылған саңырауқұлақтар.",
+      "RU": "Булочка, соус ремулад, жареные грибы, помидоры, соус айоли, куриная котлета, сыр моцарелла, соус BBQ, луковые чипсы"
+     },
+     "tags": {}
+    }
+   },
+   "ad24ba72-8974-4c4b-a8c3-0327b89bab59": {
+    "_id": "ad24ba72-8974-4c4b-a8c3-0327b89bab59",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "b4318e7bd9144c35817fdb3e150a06cb.jpeg",
+    "name": {
+     "EN": "Chicken",
+     "KZ": "Чикен ",
+     "RU": "Чикен "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "EN": "Sauce",
+        "KZ": "Тұздық",
+        "RU": "Соус"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "EN": "No sauce",
+          "KZ": "Тұздық жоқ",
+          "RU": "Без соуса"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "EN": "Sweet Chili",
+          "KZ": "Тәтті чили",
+          "RU": "Сладкий Чили"
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "EN": "Honey-garlic",
+          "KZ": "Бал-сарымсақ",
+          "RU": "Медово-чесночный"
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "EN": "BBQ",
+          "KZ": "BBQ",
+          "RU": "BBQ"
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Сырный соус"
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Кетчуп "
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Белый соус"
+         },
+         "priceDelta": 70000,
+         "status": "normal"
+        }
+       ]
+      },
+      {
+       "header": {
+        "RU": "Что делаем?"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Вмешать"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Отдельно"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        }
+       ]
+      }
+     ],
+     "others": [
+      {
+       "label": {
+        "EN": "12 pieces",
+        "KZ": "12 дана",
+        "RU": "12 штук"
+       },
+       "oldPrice": 0,
+       "price": 390000
+      },
+      {
+       "label": {
+        "EN": "18 pieces",
+        "KZ": "18 дана",
+        "RU": "18 штук"
+       },
+       "oldPrice": 0,
+       "price": 560000
+      },
+      {
+       "label": {
+        "EN": "24 pieces",
+        "KZ": "24 дана",
+        "RU": "24 штуки"
+       },
+       "oldPrice": 0,
+       "price": 720000
+      }
+     ],
+     "primary": {
+      "label": {
+       "EN": "6 pcs",
+       "KZ": "6 дана",
+       "RU": "6 шт"
+      },
+      "oldPrice": 0,
+      "price": 220000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p><span style=\"color: rgb(25, 36, 52); font-family: Rubik, sans-serif;\">Крылышки, жареные в фирменной панировке</span></p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Wings fried in signature breading",
+      "KZ": "Қуырылған маринадталған тауық қанаттары",
+      "RU": "Крылышки, жареные в фирменной панировке"
+     },
+     "tags": {}
+    }
+   },
+   "ae99815a-fa15-474d-b652-05168810cb68": {
+    "_id": "ae99815a-fa15-474d-b652-05168810cb68",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "831738f5418448b785f2e0b0c5e4849d.jpeg",
+    "name": {
+     "RU": "Медово-чесночный"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 30000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "b0d06eff-e628-4ea3-91b5-77b41bc07459": {
+    "_id": "b0d06eff-e628-4ea3-91b5-77b41bc07459",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "9556c699955d437b9574852a872a9874.jpeg",
+    "name": {
+     "RU": "Сладкий чили"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 30000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "b17930da-0e94-4083-b731-dc16682975d9": {
+    "_id": "b17930da-0e94-4083-b731-dc16682975d9",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "3ec75b73f3664316884231d5857db4d0.jpeg",
+    "name": {
+     "EN": "Burger \"Jackie Chan Pinwheel\"",
+     "KZ": "Бургер \"Вертушка Джеки Чана\"",
+     "RU": "Вертушка Джеки Чана"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra cheddar cheese",
+        "KZ": "Қосымша чеддар ірімшігі",
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [
+      {
+       "header": {
+        "EN": "Spicy level",
+        "KZ": "Ащы деңгей",
+        "RU": "Степень остроты "
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "EN": "Not sharp",
+          "KZ": "Өткір емес",
+          "RU": "Не острый "
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "EN": "Medium-hot",
+          "KZ": "Орташа ыстық",
+          "RU": "Средне-острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "EN": "Spicy",
+          "KZ": "Ащы",
+          "RU": "Острый"
+         },
+         "priceDelta": 0,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа"
+      },
+      "oldPrice": 0,
+      "price": 343000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Говяжья котлета и охотничьи колбаски с салатом айсберг, маринованными огурцами, свежим помидором и сыром чеддер, дополненные соусами айоли, сладким чили, BBQ и фирменным&nbsp; в мягкой булочке.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Bun, aioli sauce, spicy sauce, jalapeno, pickled cucumbers, iceberg, beef patty, sweet chili, smoked sausage, cheddar cheese, tomato, pickled onion, special sauce",
+      "KZ": "Тоқаш, айоли соусы, ащы соус, халапеьно, маринадталған қияр, айсберг, сиыр еті котлеті, тәтті чили, ысталған шұжық, чеддер ірімшігі, қызанақ, маринадталған пияз, арнайы соус",
+      "RU": "Булочка, соус айоли, маринованные огурцы, салат айсберг, говяжья котлета, соус сладкий чили, маринованный халапеньо, охотничьи говяжьи колбаски, соус фирменный, сыр чеддер, помидор, соус BBQ"
+     },
+     "tags": {
+      "EN": "Spicy",
+      "KZ": "Ащы",
+      "RU": "Острый"
+     }
+    }
+   },
+   "b654b74d-b92f-4ba9-9fb7-a5a7f2e38252": {
+    "_id": "b654b74d-b92f-4ba9-9fb7-a5a7f2e38252",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "32d27607459346d9a8cb4fc74400fd06.png",
+    "name": {
+     "EN": "Ketchup",
+     "KZ": "Кетчуп",
+     "RU": "Кетчуп"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 25000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "b8e1ff82-4e4b-4dfe-ba6d-4a42aa747934": {
+    "_id": "b8e1ff82-4e4b-4dfe-ba6d-4a42aa747934",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "80f59c3ad7234706b39857745c87d5a7.png",
+    "name": {
+     "RU": "Луковые кольца"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [
+      {
+       "header": {
+        "RU": "Добавь соус"
+       },
+       "isHidden": false,
+       "isRequired": true,
+       "options": [
+        {
+         "label": {
+          "RU": "Без соуса"
+         },
+         "priceDelta": 0,
+         "status": "default"
+        },
+        {
+         "label": {
+          "RU": "Сырный соус"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Кетчуп"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Белый соус"
+         },
+         "priceDelta": 25000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "BBQ"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Сладкий Чили"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        },
+        {
+         "label": {
+          "RU": "Медово-чесночный"
+         },
+         "priceDelta": 30000,
+         "status": "normal"
+        }
+       ]
+      }
+     ],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 150000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Золотистые луковые кольца с хрустящей корочкой</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Золотистые луковые кольца с хрустящей корочкой"
+     },
+     "tags": {}
+    }
+   },
+   "bfee9f58-86c6-4a7d-bdb6-49d85891ddcf": {
+    "_id": "bfee9f58-86c6-4a7d-bdb6-49d85891ddcf",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "f43ec28b38f343078309542e17a8c26b.jpeg",
+    "name": {
+     "EN": "Chicken burger",
+     "KZ": "Тауық бургер",
+     "RU": "Чикен Стоун"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra cheddar cheese",
+        "KZ": "Қосымша чеддар ірімшігі",
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа"
+      },
+      "oldPrice": 0,
+      "price": 295000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Куриная котлета с айсбергом, маринованными огурцами и свежими помидорами, дополненная сыром чеддер и соусами айоли, BBQ, кетчуп и фирменным&nbsp; в мягкой булочке.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Bun, coleslaw, ketchup, aioli sauce, chicken cutlet, fresh cucumbers, tomatoes, BBQ sauce, cheddar cheese, special sauce",
+      "KZ": "Тоқаш, коул слоу, кетчуп, айоли соусы, тауық еті котлеті, қияр, қызанақ, барбекю соусы, чеддер ірімшігі, арнайы соус",
+      "RU": "Булочка, салат коул слоу, кетчуп, соус айоли, куриная котлета, огурцы маринованные, соус фирменный, помидоры, сыр чеддер, соус BBQ"
+     },
+     "tags": {}
+    }
+   },
+   "ca4b03c7-e330-46de-b94a-b7d28194d9ee": {
+    "_id": "ca4b03c7-e330-46de-b94a-b7d28194d9ee",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "9bd90a5d104e48cf90b29c1d9e9c14a6.jpeg",
+    "name": {
+     "EN": "Pepper extra",
+     "KZ": "Қосымша бұрыш",
+     "RU": "Перчик дополнительно"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 15000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "cac36116-a693-48c2-b7c5-77a3a16b44a8": {
+    "_id": "cac36116-a693-48c2-b7c5-77a3a16b44a8",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "cc4b6566725d44299c50e4e3802d9cb9.png",
+    "name": {
+     "RU": "Coca Cola "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 95000
+      },
+      {
+       "label": {
+        "RU": "В стекле 0,25"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      },
+      {
+       "label": {
+        "RU": "ЖБ"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 70000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "d0061933-9015-48f4-b897-10c4b56112c8": {
+    "_id": "d0061933-9015-48f4-b897-10c4b56112c8",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "dd24dd3415274165ae44cbe5a97b06ec.png",
+    "name": {
+     "EN": "White sauce",
+     "KZ": "Ақ тұздық",
+     "RU": "Соус белый "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {},
+      "oldPrice": 0,
+      "price": 25000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "d0e9c276-e962-4706-b401-21011f4b9157": {
+    "_id": "d0e9c276-e962-4706-b401-21011f4b9157",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "e0348002fbed4c92bdbecb9c2567dd18.png",
+    "name": {
+     "RU": "Piko тетрапак в ассортименте "
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "RU": "1л"
+      },
+      "oldPrice": 0,
+      "price": 130000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   },
+   "d50a733c-9197-4a31-8785-b229267cd0d7": {
+    "_id": "d50a733c-9197-4a31-8785-b229267cd0d7",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "dcbedacdb5f14a698fb0ef6cfacf1d60.jpeg",
+    "name": {
+     "RU": "Чикаго Блюз"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "С говяжьей котлетой"
+       },
+       "oldPrice": 0,
+       "price": 542000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "С куриной котлетой "
+      },
+      "oldPrice": 0,
+      "price": 352000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Сочный говяжий бургер с тремя котлетами, а также с тянущейся моцареллой, маринованными огурцами, халапеньо и соусами BBQ и кетчуп.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "RU": "Три котлеты-это не шутка"
+     },
+     "tags": {
+      "RU": "МНОГО МЯСА"
+     }
+    }
+   },
+   "de88d7d6-c1c3-4d12-94f3-c1bfcbf5c51f": {
+    "_id": "de88d7d6-c1c3-4d12-94f3-c1bfcbf5c51f",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "3003298d3b92456e89bdffd8582d885b.jpeg",
+    "name": {
+     "EN": "Beef burger",
+     "KZ": "Сиыр етінен жасалған бургер",
+     "RU": "BEEF Бургер"
+    },
+    "prices": {
+     "modExtras": [
+      {
+       "isHidden": null,
+       "label": {
+        "EN": "Extra cheddar cheese",
+        "KZ": "Қосымша чеддар ірімшігі",
+        "RU": "Моцарелла"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Чеддер"
+       },
+       "priceDelta": 25000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Говяжья котлета"
+       },
+       "priceDelta": 100000
+      },
+      {
+       "isHidden": null,
+       "label": {
+        "RU": "Куриная котлета"
+       },
+       "priceDelta": 60000
+      }
+     ],
+     "modSelects": [],
+     "others": [],
+     "primary": {
+      "label": {
+       "EN": "Original",
+       "KZ": "Түпнұсқа"
+      },
+      "oldPrice": 0,
+      "price": 247000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {
+      "RU": "<p>Говяжья котлета с салатом коул слоу, маринованными огурцами и свежими помидорами, в сочетании с сыром чеддер и соусами айоли, BBQ, кетчупом и фирменным&nbsp; в мягкой булочке.</p>"
+     },
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {
+      "EN": "Bun, coleslaw, ketchup, aioli sauce, beef cutlet, pickled cucumbers, tomatoes, BBQ sauce, cheddar cheese, special sauce",
+      "KZ": "Тоқаш, коул слоу, кетчуп, айоли соусы, сиыр еті котлеті, маринадталған қияр, қызанақ, барбекю соусы, чеддер ірімшігі, арнайы соус",
+      "RU": "Булочка, салат коул слоу, кетчуп, соус айоли, говяжья котлета, огурцы маринованные, соус фирменный, помидоры, сыр чеддер, соус BBQ"
+     },
+     "tags": {}
+    }
+   },
+   "e1624bf4-0347-4777-9a93-4515b17b10e5": {
+    "_id": "e1624bf4-0347-4777-9a93-4515b17b10e5",
+    "createdAt": "",
+    "editedAt": "",
+    "isHidden": false,
+    "isOff": false,
+    "mainImg": "010d34484c6a4a21aefbcf70e8631d75.png",
+    "name": {
+     "RU": "Fanta"
+    },
+    "prices": {
+     "modExtras": [],
+     "modSelects": [],
+     "others": [
+      {
+       "label": {
+        "RU": "1л"
+       },
+       "oldPrice": 0,
+       "price": 95000
+      },
+      {
+       "label": {
+        "RU": "В стекле 0,25л"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      },
+      {
+       "label": {
+        "RU": "ЖБ"
+       },
+       "oldPrice": 0,
+       "price": 75000
+      }
+     ],
+     "primary": {
+      "label": {
+       "RU": "0,5л"
+      },
+      "oldPrice": 0,
+      "price": 70000
+     }
+    },
+    "specs": {
+     "carbs": 0,
+     "cookingTimeFrom": 0,
+     "cookingTimeTo": 0,
+     "fats": 0,
+     "fullDesc": {},
+     "grams": 0,
+     "kiloCalories": 0,
+     "proteins": 0,
+     "shortDesc": {},
+     "tags": {}
+    }
+   }
+  },
+  "settingsOrder": {
+   "deliveryVariants": {
+    "cinema": null,
+    "city": {
+     "settings": {
+      "comment": {
+       "EN": "Delivery is subject to 100% prepayment. We will send you a remote invoice for payment in KASPI. Delivery to order from 6000 tenge. free, delivery for orders up to 6000 tenge. - 800 tenge. around the city\n\nFor Iphone users, when going to WhatsApp, please click the \"send\" button and we will then see your order.\nAfter ordering, we will definitely contact you, if we haven’t contacted you, please call us!\nEvery guest is dear to us, so we will gladly accept your order.",
+       "KZ": "Жеткізу 100% алдын ала төленеді. Біз сізге KASPI бойынша төлем үшін қашықтан шот жібереміз. Тапсырыс бойынша жеткізу 6000 теңгеден бастап - Тегін, 6000 теңгеге дейінгі тапсырыстар үшін жеткізу - қаланың аймағында 800 теңге\n\nIphone пайдаланушылары үшін WhatsApp-қа кірген кезде «жіберу» түймесін басыңыз, содан кейін тапсырысыңызды көреміз.\nТапсырыс бергеннен кейін біз сізге міндетті түрде хабарласамыз, егер сізбен байланыспаған болсақ, бізге хабарласыңыз!\nӘрбір қонақ біз үшін қымбат, сондықтан тапсырысыңызды қуана қабылдаймыз.",
+       "RU": "Доставка по 100% предоплате, Мы отправим вам удаленный счет на оплату в KASPI. Доставка на заказ от 8000 тг. бесплатная, доставка на заказ до 8000 тг. - 800 тг. по городу\n\nДля пользователей Iphone при переходе на WhatsApp пожалуйста нажмите кнопку \"отправить\" и мы тогда увидим ваш заказ.\nПосле заказа мы обязательно с вами свяжемся, если не связались пожалуйста позвоните нам!\nДля нас дорог каждый гость, поэтому мы с радостью примем Ваш заказ\n\nЗаказы по Хромтау только по номеру +7 700 260 830 97"
+      }
+     }
+    },
+    "customPlace": null,
+    "placements": null,
+    "selfPickupEmpty": {
+     "settings": {
+      "comment": {
+       "EN": "Please write from which address is it more convenient for you to pick up your order?\nSt. Brothers Zhubanov 282\n​St. Nagashbai Shaikenova 20\nEset-Batyr St. 83\nZarechny 3 Zhibek Zholy 1049",
+       "KZ": "Тапсырысты қай мекен-жайдан алған ыңғайлырақ жазыңыз?\nSt. Ағайынды Жұбановтар 282\nSt. Нағашбай Шайкенова 20\nЕсет-Батыр көшесі, 83\nЗаречный 3 Жібек жолы 1049 ж",
+       "RU": "Пожалуйста напишите с какого адреса Вам удобнее забрать заказ?\n​Ул. Нагашбай Шайкенова 20\nУл.Есет-Батыра 83\nCity Shopping Center 12мкр 21л\n\nЗаказы по Хромтау только по номеру +7 700 260 830 97\n"
+      }
+     }
+    },
+    "yandex": null
+   },
+   "redirectToWhatsapp": {
+    "number": "+77783869447",
+    "countryCode": "KZ"
+   }
+  },
+  "bespoke": {
+   "customIcons": null,
+   "inCartMessage": null,
+   "isHiddenCartTotalPrice": null,
+   "replaceTxts": null
+  },
+  "styling": {
+   "accentBg": [
+    101,
+    30,
+    30
+   ],
+   "accentFg": [
+    255,
+    255,
+    255
+   ],
+   "borderRounding": "none",
+   "fontFamily": "'SF Pro Display', sans-serif",
+   "helperBorderBg": [
+    225,
+    185,
+    80
+   ],
+   "itemDisplayType": "grid",
+   "itemImgPosition": "left",
+   "mainBg": [
+    18,
+    34,
+    65
+   ],
+   "mainFg": [
+    255,
+    255,
+    255
+   ],
+   "outOfStockFg": [
+    147,
+    152,
+    161
+   ],
+   "priceFg": [
+    255,
+    255,
+    255
+   ],
+   "salesPriceFg": [
+    101,
+    30,
+    30
+   ],
+   "secondaryBg": [
+    30,
+    38,
+    73
+   ],
+   "secondaryFg": [
+    32,
+    32,
+    34
+   ],
+   "showSectionsOnMainPage": true
+  },
+  "customPageLinks": [],
+  "itemsMedia": {
+   "64f3d79b-c36b-4e60-bb1f-901ae0809bbc": {
+    "images": [
+     "6a30775e042543598d7a087f5e1e6ade.jpeg",
+     "d2a05f6d832842e3b511c68aaede7ba1.jpeg"
+    ]
+   },
+   "93f235e6-beab-449d-8048-a1399e7f9226": {
+    "images": [
+     "314f7e436afc42c0b8052ffb35223f95.jpeg"
+    ]
+   }
+  },
+  "orderSupItems": [],
+  "menuIikoSettings": {
+   "mustIgnoreStopLists": false,
+   "mustSendDeliveryOrdersForCouriers": false
+  },
+  "cola": {
+   "isCocaColaClient": false
+  },
+  "crossSellingMapping": {
+   "categories": {
+    "5e393193-ff0e-4d1a-99dd-3c947f2ac122": {
+     "customLabel": {},
+     "productIds": [
+      "222636ad-44a7-4947-a3ee-23952d016205",
+      "3d4b63ce-130d-4c75-91b0-96935f1403e2",
+      "f4a888bc-cb4f-4186-a238-c3e26b084b6c",
+      "11a2146a-6dea-4ba2-a7ea-11b8d78890b7",
+      "7528022c-8933-4596-9cd2-cf66576b2dc9"
+     ]
+    }
+   },
+   "commonProductIds": [
+    "46272150-dcbb-4933-93b3-a616f106e4fd",
+    "7528022c-8933-4596-9cd2-cf66576b2dc9",
+    "e9669e14-c4e8-4e43-a887-40a9fcf35a29",
+    "815646ea-4665-4c18-8fce-951bbfb2ffa4",
+    "f4a888bc-cb4f-4186-a238-c3e26b084b6c",
+    "ca4b03c7-e330-46de-b94a-b7d28194d9ee"
+   ],
+   "products": {
+    "222636ad-44a7-4947-a3ee-23952d016205": {
+     "customLabel": {},
+     "productIds": [
+      "79580268-b008-449b-9aa8-3f1a6012f259",
+      "14ca77dd-fbbd-4f4e-95f6-c42571afef55",
+      "b654b74d-b92f-4ba9-9fb7-a5a7f2e38252"
+     ]
+    },
+    "3d4b63ce-130d-4c75-91b0-96935f1403e2": {
+     "customLabel": {},
+     "productIds": [
+      "79580268-b008-449b-9aa8-3f1a6012f259",
+      "14ca77dd-fbbd-4f4e-95f6-c42571afef55",
+      "b654b74d-b92f-4ba9-9fb7-a5a7f2e38252"
+     ]
+    }
+   }
+  },
+  "mentions": {
+   "toCategories": null,
+   "toProducts": null
+  },
+  "tagging": {}
+ },
+ "mode": "PROD",
+ "assetsUrl": "https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod",
+ "apiUrl": "https://api.kamiqr.com",
+ "apiUrlNltx": "https://events-writer.kamiqr.com/add-customer-events",
+ "apiV2Url": "https://api-v2.kamiqr.com",
+ "isPrintMenu": false,
+ "isIikoMenu": false,
+ "isRkeeperMenu": false,
+ "isColaMenu": false,
+ "isPreview": false,
+ "isFromQR": false,
+ "defaultPlacement": "",
+ "customerTokenId": "a627f4a1-2cf4-4e78-baf0-823bbc407854",
+ "customerSessionId": "e75313b5-b027-4e5d-b987-9717277c75b3",
+ "customerGlobalToken": "231cde7d-360d-4147-9714-bb3739fe4148",
+ "splitGroups": {
+  "recommendation-system-version": "v1"
+ },
+ "isNewUser": true,
+ "surveySubmitted": false,
+ "recommendedProducts": [
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "490557ee-2722-4143-97e0-442e87e02258",
+   "scores": 4580
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "222636ad-44a7-4947-a3ee-23952d016205",
+   "scores": 3618
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "48fe8763-92aa-4d2a-a811-23a00ec294d0",
+   "scores": 2460
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "a1a2d871-f090-416c-b473-d787bd2b21e1",
+   "scores": 2087
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "ad24ba72-8974-4c4b-a8c3-0327b89bab59",
+   "scores": 2077
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "ca4b03c7-e330-46de-b94a-b7d28194d9ee",
+   "scores": 1792
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "14ca77dd-fbbd-4f4e-95f6-c42571afef55",
+   "scores": 1711
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "f4a888bc-cb4f-4186-a238-c3e26b084b6c",
+   "scores": 1523
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "7528022c-8933-4596-9cd2-cf66576b2dc9",
+   "scores": 1477
+  },
+  {
+   "timeMark": "2026-09-20 15:00:09",
+   "customerToken": "Unknown",
+   "menuId": "691ab784-1ba3-426f-849f-c9bd9b6f2f59",
+   "itemId": "3d4b63ce-130d-4c75-91b0-96935f1403e2",
+   "scores": 1326
+  }
+ ],
+ "buildId": "35446579764_633ce90",
+ "params": {
+  "current_section": "330dbf9f-b35d-44c3-8cab-661a791b4b78"
+ },
+ "currentLang": ""
+}

@@ -1,0 +1,2495 @@
+{
+ "meta": {
+  "branch_rating": 4.7,
+  "branch_rating_is_confirmed": true,
+  "branch_reviews_count": 47,
+  "code": 200,
+  "providers": [
+   {
+    "is_reviewable": true,
+    "tag": "2gis"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "otello"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "booking"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "netmonet"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "tbank"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "sbertips"
+   },
+   {
+    "is_reviewable": true,
+    "tag": "avito"
+   }
+  ],
+  "total_count": 41
+ },
+ "reviews": [
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-09-15T18:39:47.098051+07:00",
+   "date_edited": "2026-09-15T18:39:56.686645+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "297043091",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "классно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Нурхан َ",
+    "id": "52213437",
+    "last_name": null,
+    "name": "Нурхан َ",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560339318819_6029_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560339318819_6029_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560339318819_6029_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560339318819_6029_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560339318819_6029.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "bb90d7c2712546e59ee698e3f5f9ad26",
+    "reviews_count": 8,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-09-10T14:30:05.53928+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "295693185",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "Обслуживание вообще 0, кассирша грубая не хочет даже обслуживать",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Айгерим .",
+    "id": "95251768",
+    "last_name": null,
+    "name": "Айгерим .",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "10bd30a423434ceeb7121b88a31f18dc",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-09-05T23:09:06.821291+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "294508966",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "Бургеры совсем ужасно готовят. Донер который с сосисками с плёнкой готовят. Насчет бургера это ужас, заказала обычный куриный бургер с сыром. Соуса черезчур много и остроты много и вообще не вкусно. А вот в городе в Актюбинске там готовят супер. Туда слов нет что бургер что донер все вкусно. Но именно здесь в Хромтау бургеры это ужасно.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Кымбат Адильбек",
+    "id": "92114816",
+    "last_name": null,
+    "name": "Кымбат Адильбек",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "4ba956b397684372891f1de1062022e7",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-08-16T04:32:33.831288+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "269062920",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Обслуживание на высшем уровне",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Panabek Aben",
+    "id": "58820410",
+    "last_name": null,
+    "name": "Panabek Aben",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "195576c503ef44f2a83c1238f9f954ac",
+    "reviews_count": 2,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-08-11T02:20:34.395818+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "267231021",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Идиально",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Rustam Tlepkaliev",
+    "id": "52588571",
+    "last_name": null,
+    "name": "Rustam Tlepkaliev",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560316735470_8563_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560316735470_8563_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560316735470_8563_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560316735470_8563_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560316735470_8563.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "2ba725d40f4749fe8c9e18009fc24ba5",
+    "reviews_count": 2,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-07-23T13:44:59.223359+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "260712340",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "Қазақша қызымет көрсетпеиді",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "қуан ⬅️",
+    "id": "22963094",
+    "last_name": null,
+    "name": "қуан ⬅️",
+    "photo_preview_urls": {
+     "1920x": "https://i7.photo.2gis.com/images/profile/30258560321082896_e921_1920x.jpg",
+     "320x": "https://i7.photo.2gis.com/images/profile/30258560321082896_e921_320x.jpg",
+     "640x": "https://i7.photo.2gis.com/images/profile/30258560321082896_e921_640x.jpg",
+     "64x64": "https://i7.photo.2gis.com/images/profile/30258560321082896_e921_64x64.jpg",
+     "url": "https://i7.photo.2gis.com/images/profile/30258560321082896_e921.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "e0005852f00b411cbc423e9317556a2a",
+    "reviews_count": 20,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-06-17T21:56:37.467563+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "250835603",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [
+    {
+     "date_created": "2026-06-17T21:56:37.527661+07:00",
+     "id": "33028537",
+     "preview_urls": {
+      "1920x": "https://cachizer3.2gis.com/reviews-photos/989e1c58-a3bb-498f-8862-75cca14ded6d.jpg?w=1920",
+      "320x": "https://cachizer3.2gis.com/reviews-photos/989e1c58-a3bb-498f-8862-75cca14ded6d.jpg?w=320",
+      "640x": "https://cachizer3.2gis.com/reviews-photos/989e1c58-a3bb-498f-8862-75cca14ded6d.jpg?w=640",
+      "64x64": "https://cachizer3.2gis.com/reviews-photos/989e1c58-a3bb-498f-8862-75cca14ded6d.jpg?h=64&w=64",
+      "url": "https://cachizer3.2gis.com/reviews-photos/989e1c58-a3bb-498f-8862-75cca14ded6d.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    },
+    {
+     "date_created": "2026-06-17T21:56:37.527661+07:00",
+     "id": "33028538",
+     "preview_urls": {
+      "1920x": "https://cachizer3.2gis.com/reviews-photos/6eb102fb-88df-4fde-8139-d1c0ea7fc5e7.jpg?w=1920",
+      "320x": "https://cachizer3.2gis.com/reviews-photos/6eb102fb-88df-4fde-8139-d1c0ea7fc5e7.jpg?w=320",
+      "640x": "https://cachizer3.2gis.com/reviews-photos/6eb102fb-88df-4fde-8139-d1c0ea7fc5e7.jpg?w=640",
+      "64x64": "https://cachizer3.2gis.com/reviews-photos/6eb102fb-88df-4fde-8139-d1c0ea7fc5e7.jpg?h=64&w=64",
+      "url": "https://cachizer3.2gis.com/reviews-photos/6eb102fb-88df-4fde-8139-d1c0ea7fc5e7.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    },
+    {
+     "date_created": "2026-06-17T21:56:37.527661+07:00",
+     "id": "33028539",
+     "preview_urls": {
+      "1920x": "https://cachizer1.2gis.com/reviews-photos/5c061a93-1195-4f79-83ac-5d00255a8340.jpg?w=1920",
+      "320x": "https://cachizer1.2gis.com/reviews-photos/5c061a93-1195-4f79-83ac-5d00255a8340.jpg?w=320",
+      "640x": "https://cachizer1.2gis.com/reviews-photos/5c061a93-1195-4f79-83ac-5d00255a8340.jpg?w=640",
+      "64x64": "https://cachizer1.2gis.com/reviews-photos/5c061a93-1195-4f79-83ac-5d00255a8340.jpg?h=64&w=64",
+      "url": "https://cachizer1.2gis.com/reviews-photos/5c061a93-1195-4f79-83ac-5d00255a8340.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    },
+    {
+     "date_created": "2026-06-17T21:56:37.527661+07:00",
+     "id": "33028540",
+     "preview_urls": {
+      "1920x": "https://cachizer3.2gis.com/reviews-photos/78bdb981-431b-48ad-b5f8-0016254b7e95.jpg?w=1920",
+      "320x": "https://cachizer3.2gis.com/reviews-photos/78bdb981-431b-48ad-b5f8-0016254b7e95.jpg?w=320",
+      "640x": "https://cachizer3.2gis.com/reviews-photos/78bdb981-431b-48ad-b5f8-0016254b7e95.jpg?w=640",
+      "64x64": "https://cachizer3.2gis.com/reviews-photos/78bdb981-431b-48ad-b5f8-0016254b7e95.jpg?h=64&w=64",
+      "url": "https://cachizer3.2gis.com/reviews-photos/78bdb981-431b-48ad-b5f8-0016254b7e95.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    },
+    {
+     "date_created": "2026-06-17T21:56:37.527661+07:00",
+     "id": "33028541",
+     "preview_urls": {
+      "1920x": "https://cachizer2.2gis.com/reviews-photos/ddd4196e-51a3-4684-b44e-1c9cef39b800.jpg?w=1920",
+      "320x": "https://cachizer2.2gis.com/reviews-photos/ddd4196e-51a3-4684-b44e-1c9cef39b800.jpg?w=320",
+      "640x": "https://cachizer2.2gis.com/reviews-photos/ddd4196e-51a3-4684-b44e-1c9cef39b800.jpg?w=640",
+      "64x64": "https://cachizer2.2gis.com/reviews-photos/ddd4196e-51a3-4684-b44e-1c9cef39b800.jpg?h=64&w=64",
+      "url": "https://cachizer2.2gis.com/reviews-photos/ddd4196e-51a3-4684-b44e-1c9cef39b800.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    }
+   ],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "К сожалению, качество заведения заметно ухудшилось. Заказанный чикен выглядел совсем неаппетитно: подгоревшая панировка, неаккуратная подача. На вкус было ощущение, что блюдо готовили на старом масле — присутствовал неприятный прогорклый привкус, который полностью испортил впечатление от еды.\n\nРаньше здесь готовили намного лучше, поэтому особенно обидно видеть такое снижение качества. Складывается впечатление, что заведению перестали уделять должное внимание продуктам и приготовлению. Надеюсь, руководство обратит внимание на отзывы гостей и вернет прежний уровень качества.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Дина Прохорова",
+    "id": "50604968",
+    "last_name": null,
+    "name": "Дина Прохорова",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "61c91eeb6d7341209cd3413f371230f7",
+    "reviews_count": 3,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-06-17T01:04:46.276202+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "250619366",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 3,
+   "region_id": 167,
+   "source": null,
+   "text": "Постоянно ничего нет из меню. Донер говяжий как можно делать из фарша не понимаю👎",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Айжамал Олегова",
+    "id": "31878232",
+    "last_name": null,
+    "name": "Айжамал Олегова",
+    "photo_preview_urls": {
+     "1920x": "https://i7.photo.2gis.com/images/profile/30258560233039060_2d04_1920x.jpg",
+     "320x": "https://i7.photo.2gis.com/images/profile/30258560233039060_2d04_320x.jpg",
+     "640x": "https://i7.photo.2gis.com/images/profile/30258560233039060_2d04_640x.jpg",
+     "64x64": "https://i7.photo.2gis.com/images/profile/30258560233039060_2d04_64x64.jpg",
+     "url": "https://i7.photo.2gis.com/images/profile/30258560233039060_2d04.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "345362a2fd76472b90f42793702bc27e",
+    "reviews_count": 26,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-06-15T20:48:36.565408+07:00",
+   "date_edited": "2026-06-15T20:50:09.134618+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "250312929",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Обслуживание быстрое, доставка тоже. Заказывала под закрытие филиала - без проблем приняли заказ. \nДонер достаточно вкусный, но «дымка» будто многовато:)",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Irina Ponomaryova",
+    "id": "47809732",
+    "last_name": null,
+    "name": "Irina Ponomaryova",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "d3da5d4b35524d58b74fe70c0bada02d",
+    "reviews_count": 8,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-06-11T22:26:45.995871+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "249378716",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Заведение супер",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Саня Шибков",
+    "id": "79400371",
+    "last_name": null,
+    "name": "Саня Шибков",
+    "photo_preview_urls": {
+     "1920x": "https://i6.photo.2gis.com/images/profile/30258560319474097_65a9_1920x.jpg",
+     "320x": "https://i6.photo.2gis.com/images/profile/30258560319474097_65a9_320x.jpg",
+     "640x": "https://i6.photo.2gis.com/images/profile/30258560319474097_65a9_640x.jpg",
+     "64x64": "https://i6.photo.2gis.com/images/profile/30258560319474097_65a9_64x64.jpg",
+     "url": "https://i6.photo.2gis.com/images/profile/30258560319474097_65a9.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "af2696a729b94832bbb1a6d7011b5e66",
+    "reviews_count": 3,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-06-02T22:26:19.816603+07:00",
+   "date_edited": "2026-06-02T22:57:40.948952+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "247050327",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 3,
+   "region_id": 167,
+   "source": null,
+   "text": "Обслужуа не очень и девочка грубая.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Sakeen",
+    "id": "65103149",
+    "last_name": null,
+    "name": "Sakeen",
+    "photo_preview_urls": {
+     "1920x": "https://i0.photo.2gis.com/images/profile/30258560327931968_a4b0_1920x.jpg",
+     "320x": "https://i0.photo.2gis.com/images/profile/30258560327931968_a4b0_320x.jpg",
+     "640x": "https://i0.photo.2gis.com/images/profile/30258560327931968_a4b0_640x.jpg",
+     "64x64": "https://i0.photo.2gis.com/images/profile/30258560327931968_a4b0_64x64.jpg",
+     "url": "https://i0.photo.2gis.com/images/profile/30258560327931968_a4b0.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "563aae84fc9a473b99bae4853c62a7cb",
+    "reviews_count": 2,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-05-27T22:51:50.397536+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "245429169",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Всегда заказываю,отлично",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Адемы Туреханова",
+    "id": "100792514",
+    "last_name": null,
+    "name": "Адемы Туреханова",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "68a7658d80084216ab88608483643c13",
+    "reviews_count": 5,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-05-10T05:12:25.610972+07:00",
+   "date_edited": "2026-05-10T05:15:17.136982+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "241529640",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 2,
+   "region_id": 167,
+   "source": null,
+   "text": "Осы жақында бардық кассадағы қызға қазақша сөйлесең түсініп тұр бәрін бірақ орысша айтсаң жауап қайтарады .Менюге көп зат жазып қойған не сұрасаңда жоқ!",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Aknur Baidullaeva",
+    "id": "67502628",
+    "last_name": null,
+    "name": "Aknur Baidullaeva",
+    "photo_preview_urls": {
+     "1920x": "https://i8.photo.2gis.com/images/profile/30258560336523400_0928_1920x.jpg",
+     "320x": "https://i8.photo.2gis.com/images/profile/30258560336523400_0928_320x.jpg",
+     "640x": "https://i8.photo.2gis.com/images/profile/30258560336523400_0928_640x.jpg",
+     "64x64": "https://i8.photo.2gis.com/images/profile/30258560336523400_0928_64x64.jpg",
+     "url": "https://i8.photo.2gis.com/images/profile/30258560336523400_0928.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "2e227eeab7564ca0b6f6bbc677efa52d",
+    "reviews_count": 6,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-04-20T00:52:54.5178+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "237148838",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [
+    {
+     "date_created": "2026-04-20T00:52:54.547056+07:00",
+     "id": "29773137",
+     "preview_urls": {
+      "1920x": "https://cachizer2.2gis.com/reviews-photos/a1aae5a9-1a99-485e-913b-9d5a958174fc.jpg?w=1920",
+      "320x": "https://cachizer2.2gis.com/reviews-photos/a1aae5a9-1a99-485e-913b-9d5a958174fc.jpg?w=320",
+      "640x": "https://cachizer2.2gis.com/reviews-photos/a1aae5a9-1a99-485e-913b-9d5a958174fc.jpg?w=640",
+      "64x64": "https://cachizer2.2gis.com/reviews-photos/a1aae5a9-1a99-485e-913b-9d5a958174fc.jpg?h=64&w=64",
+      "url": "https://cachizer2.2gis.com/reviews-photos/a1aae5a9-1a99-485e-913b-9d5a958174fc.jpg"
+     },
+     "processing_status": "finished",
+     "visibility_status": "visible"
+    }
+   ],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Донер вкусный был,спасибо❤️,покупаю у добер донер самые лучшие😍",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Гулдаурен Нурмаханова",
+    "id": "96652233",
+    "last_name": null,
+    "name": "Гулдаурен Нурмаханова",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "89627ef98cf243f691c68c20bc45a456",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-04-08T13:26:05.273656+07:00",
+   "date_edited": "2026-04-08T13:31:26.190676+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "234724777",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 3,
+   "region_id": 167,
+   "source": null,
+   "text": "Қазақша қызмет көрсетілмейді, менің қазақша айтқаныма орысша жауап берді! ҚР “Тіл туралы” заңы, 4-бап, 5-бап, 21-бап!",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "А А",
+    "id": "39955069",
+    "last_name": null,
+    "name": "А А",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "f2a822dedf204832bef0edd8c836e001",
+    "reviews_count": 4,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-03-08T00:47:28.574026+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "227612644",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "невкусно раньше было лучше",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Адиат Сактаганов",
+    "id": "75346303",
+    "last_name": null,
+    "name": "Адиат Сактаганов",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "e5932440ea9948bc875046246055159d",
+    "reviews_count": 5,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2026-02-15T12:21:29.118225+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "219444763",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Саня к",
+    "id": "61606538",
+    "last_name": null,
+    "name": "Саня к",
+    "photo_preview_urls": {
+     "1920x": "https://i0.photo.2gis.com/images/profile/30258560292079360_3260_1920x.jpg",
+     "320x": "https://i0.photo.2gis.com/images/profile/30258560292079360_3260_320x.jpg",
+     "640x": "https://i0.photo.2gis.com/images/profile/30258560292079360_3260_640x.jpg",
+     "64x64": "https://i0.photo.2gis.com/images/profile/30258560292079360_3260_64x64.jpg",
+     "url": "https://i0.photo.2gis.com/images/profile/30258560292079360_3260.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "db07580eb2144245b3fd77f8d3bd2d09",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-12-11T10:59:52.038848+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "205109187",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 4,
+   "region_id": 167,
+   "source": null,
+   "text": "Долго приготовил. А тк Вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "ERS Omirzakov",
+    "id": "37728472",
+    "last_name": null,
+    "name": "ERS Omirzakov",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560181092889_da25_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560181092889_da25_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560181092889_da25_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560181092889_da25_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560181092889_da25.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "190b9bda8c7e4f9a9de041d7e23f3cf3",
+    "reviews_count": 7,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-12-02T04:15:24.622587+07:00",
+   "date_edited": "2025-12-02T04:16:56.43513+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "203330997",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 1,
+   "region_id": 167,
+   "source": null,
+   "text": "Сағат 03:00 дин жұмыс жасамасан дар уақытын өзгертіп қойсан дарш адамды әуре қылмай жауап берми",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Асылбек Омар",
+    "id": "24072865",
+    "last_name": null,
+    "name": "Асылбек Омар",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560259308531_7a2f_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560259308531_7a2f_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560259308531_7a2f_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560259308531_7a2f_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560259308531_7a2f.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "97dea91454f74c26a66191c0a8c60ae6",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-11-28T23:15:49.304639+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "202708253",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-11-28T23:27:37.585804+07:00",
+    "id": "57596897",
+    "logo_preview_urls": {
+     "1920x": "https://ams2-cdn.2gis.com/previews/1168013846636396547/f96f7153-4c7e-46e0-9b22-d2179a04a8ab/1/ru/image_1920.png",
+     "320x": "https://ams2-cdn.2gis.com/previews/1168013846636396547/f96f7153-4c7e-46e0-9b22-d2179a04a8ab/1/ru/image_320.png",
+     "640x": "https://ams2-cdn.2gis.com/previews/1168013846636396547/f96f7153-4c7e-46e0-9b22-d2179a04a8ab/1/ru/image_640.png",
+     "64x64": "https://ams2-cdn.2gis.com/previews/1168013846636396547/f96f7153-4c7e-46e0-9b22-d2179a04a8ab/1/ru/image_64_64.png",
+     "url": "https://ams2-cdn.2gis.com/previews/1168013846636396547/f96f7153-4c7e-46e0-9b22-d2179a04a8ab/1/ru/image.png"
+    },
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый вечер!Спасибо за обратную связь!мы ждем вас снова"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Вчера кушала там донер, очень сочный и вкусный мне понравился.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Aziza Kassenova",
+    "id": "36086687",
+    "last_name": null,
+    "name": "Aziza Kassenova",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "aa264f7c8b794be899e3d9b961114772",
+    "reviews_count": 13,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 2,
+   "date_created": "2025-11-24T20:04:30.788641+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "201867576",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 2,
+   "region_id": 167,
+   "source": null,
+   "text": "Не понравилась шаурма, в фарше попадаются жилки, чикен безвкусное, заказала 1 л айрана принесли 300г даже не предупредив, в городе заказывала несколько раз всегда все устраивало, здесь разочаровалась.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Assem Zhonyssova",
+    "id": "67986416",
+    "last_name": null,
+    "name": "Assem Zhonyssova",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560255568208_524b_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560255568208_524b_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560255568208_524b_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560255568208_524b_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560255568208_524b.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "06e6d4b4e8a1461289d2423018f47d7c",
+    "reviews_count": 6,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-08-05T14:43:39.740976+07:00",
+   "date_edited": "2025-08-05T14:43:52.316824+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "176613279",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Вкусная шаурма",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Айгуль Лукпанова",
+    "id": "30268120",
+    "last_name": null,
+    "name": "Айгуль Лукпанова",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "4e91cbf476e64369a05883f359b067ba",
+    "reviews_count": 34,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-07-05T23:09:00.780416+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "169622665",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Лучший кассир! Донеры очень вкусные и сочные! Персонал на высшем уровне",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Li Ts",
+    "id": "59256611",
+    "last_name": null,
+    "name": "Li Ts",
+    "photo_preview_urls": {
+     "1920x": "https://i1.photo.2gis.com/images/profile/30258560321479140_5790_1920x.jpg",
+     "320x": "https://i1.photo.2gis.com/images/profile/30258560321479140_5790_320x.jpg",
+     "640x": "https://i1.photo.2gis.com/images/profile/30258560321479140_5790_640x.jpg",
+     "64x64": "https://i1.photo.2gis.com/images/profile/30258560321479140_5790_64x64.jpg",
+     "url": "https://i1.photo.2gis.com/images/profile/30258560321479140_5790.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "95b5275f12064beba934dd4595eaf2ea",
+    "reviews_count": 3,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-07-04T00:14:04.051787+07:00",
+   "date_edited": "2025-07-04T00:15:48.432268+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "169218921",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "👌👍👍👍 Бургеры тема. Отличное заведение.",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Aslan Aslan",
+    "id": "76774355",
+    "last_name": null,
+    "name": "Aslan Aslan",
+    "photo_preview_urls": {
+     "1920x": "https://i1.photo.2gis.com/images/profile/30258560243846387_44c4_1920x.jpg",
+     "320x": "https://i1.photo.2gis.com/images/profile/30258560243846387_44c4_320x.jpg",
+     "640x": "https://i1.photo.2gis.com/images/profile/30258560243846387_44c4_640x.jpg",
+     "64x64": "https://i1.photo.2gis.com/images/profile/30258560243846387_44c4_64x64.jpg",
+     "url": "https://i1.photo.2gis.com/images/profile/30258560243846387_44c4.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "4ba2e6d58e6645d58b88cfa0300d3e0c",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-02-04T22:09:55.113474+07:00",
+   "date_edited": "2025-04-08T14:02:58.713571+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "137742141",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "донер бомба ",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "ульяша 🐝",
+    "id": "59253195",
+    "last_name": null,
+    "name": "ульяша 🐝",
+    "photo_preview_urls": {
+     "1920x": "https://i6.photo.2gis.com/images/profile/30258560331568378_37d7_1920x.jpg",
+     "320x": "https://i6.photo.2gis.com/images/profile/30258560331568378_37d7_320x.jpg",
+     "640x": "https://i6.photo.2gis.com/images/profile/30258560331568378_37d7_640x.jpg",
+     "64x64": "https://i6.photo.2gis.com/images/profile/30258560331568378_37d7_64x64.jpg",
+     "url": "https://i6.photo.2gis.com/images/profile/30258560331568378_37d7.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "3af57a91dc7a4a51ad67e725075adafa",
+    "reviews_count": 3,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-03-11T17:04:26.566339+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "144672039",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Все вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Дианка .",
+    "id": "69859920",
+    "last_name": null,
+    "name": "Дианка .",
+    "photo_preview_urls": {
+     "1920x": "https://i9.photo.2gis.com/images/profile/30258560268752700_c161_1920x.jpg",
+     "320x": "https://i9.photo.2gis.com/images/profile/30258560268752700_c161_320x.jpg",
+     "640x": "https://i9.photo.2gis.com/images/profile/30258560268752700_c161_640x.jpg",
+     "64x64": "https://i9.photo.2gis.com/images/profile/30258560268752700_c161_64x64.jpg",
+     "url": "https://i9.photo.2gis.com/images/profile/30258560268752700_c161.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "04487f368db14bcf9b8a6b94fe5420e7",
+    "reviews_count": 9,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-02-20T23:55:59.335559+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "140875671",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 4,
+   "region_id": 167,
+   "source": null,
+   "text": "Заказывали шаурму 21.02.25. К самой шаурме никаких претензий — всё было вкусно. Однако доставка заняла больше заявленного времени: администратор сообщила, что приготовление и доставка займут 20-25 минут, но в итоге заказ прибыл через 35-40 минут. Это не критично, но в следующий раз указывайте время более точно.\n\nТакже произошла небольшая путаница — привезли шаурму с другим составом. Я сразу заметил ошибку, написал администрации, приложил видео. Реакция была быстрой: через пару минут мне предложили переделать заказ, а ещё через 20 минут привезли нужную шаурму.\n\nОтдельная благодарность администрации Dober Doner за оперативное решение вопроса и клиентоориентированность! Ошибки случаются, но главное — как их исправляют. Будем заказывать у вас снова!",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Честно Сердито",
+    "id": "48376655",
+    "last_name": null,
+    "name": "Честно Сердито",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "1545a0e166ab4bce883b20f63ef7bf6d",
+    "reviews_count": 6,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-15T16:05:49.227792+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "139692265",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:09:20.877623+07:00",
+    "id": "42389257",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый день, спасибо вам большое за ваш отзыв 🤗 Мы всегда вам рады!"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Вкусный большой донер",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Алибек Шамшатов",
+    "id": "49905972",
+    "last_name": null,
+    "name": "Алибек Шамшатов",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "04fa693b6c3d4d32a28196a56cb7410a",
+    "reviews_count": 4,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-07T22:07:01.08825+07:00",
+   "date_edited": "2025-02-07T22:07:25.226526+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "138261096",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:15:49.575321+07:00",
+    "id": "42389548",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Здравствуйте! Спасибо вам за добрые слова. Ждём вас вновь 🙏🏼"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Мне очень понравился донер он очень вкусный соус ваще тема персонал тама отличный улыбчивые все ",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "arlan4hik Aitimov",
+    "id": "59037792",
+    "last_name": null,
+    "name": "arlan4hik Aitimov",
+    "photo_preview_urls": {
+     "1920x": "https://i1.photo.2gis.com/images/profile/30258560284736502_c6a9_1920x.jpg",
+     "320x": "https://i1.photo.2gis.com/images/profile/30258560284736502_c6a9_320x.jpg",
+     "640x": "https://i1.photo.2gis.com/images/profile/30258560284736502_c6a9_640x.jpg",
+     "64x64": "https://i1.photo.2gis.com/images/profile/30258560284736502_c6a9_64x64.jpg",
+     "url": "https://i1.photo.2gis.com/images/profile/30258560284736502_c6a9.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "04cb1556577f4a738a1654741f661cab",
+    "reviews_count": 2,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-07T10:16:56.784381+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "138138054",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:16:00.703936+07:00",
+    "id": "42389561",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый день. Огромное спасибо, что выбрали нас 🙏 Всегда вам рады!"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Нихуёвый донер пипец как вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "kai kameosaw",
+    "id": "65701861",
+    "last_name": null,
+    "name": "kai kameosaw",
+    "photo_preview_urls": {
+     "1920x": "https://i8.photo.2gis.com/images/profile/30258560334778096_bf9e_1920x.jpg",
+     "320x": "https://i8.photo.2gis.com/images/profile/30258560334778096_bf9e_320x.jpg",
+     "640x": "https://i8.photo.2gis.com/images/profile/30258560334778096_bf9e_640x.jpg",
+     "64x64": "https://i8.photo.2gis.com/images/profile/30258560334778096_bf9e_64x64.jpg",
+     "url": "https://i8.photo.2gis.com/images/profile/30258560334778096_bf9e.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "b5684cf11fcd47b6a56242361bf48ae7",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-04T22:04:59.519325+07:00",
+   "date_edited": "2025-02-04T22:06:20.657317+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "137741301",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:16:22.687809+07:00",
+    "id": "42389581",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Евгений, здравствуйте, благодарим за приятный отзыв 😌 Ждём вас к нам за новыми покупками ❤"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Обслуживание высшее",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Женек 🦍",
+    "id": "54684842",
+    "last_name": null,
+    "name": "Женек 🦍",
+    "photo_preview_urls": {
+     "1920x": "https://i8.photo.2gis.com/images/profile/30258560238029441_e13c_1920x.jpg",
+     "320x": "https://i8.photo.2gis.com/images/profile/30258560238029441_e13c_320x.jpg",
+     "640x": "https://i8.photo.2gis.com/images/profile/30258560238029441_e13c_640x.jpg",
+     "64x64": "https://i8.photo.2gis.com/images/profile/30258560238029441_e13c_64x64.jpg",
+     "url": "https://i8.photo.2gis.com/images/profile/30258560238029441_e13c.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "874542b1b4f445b299a20bdd3db8c662",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-04T01:27:37.430402+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "137600545",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:16:33.982695+07:00",
+    "id": "42389589",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый вечер, спасибо за приятный отклик 🔥 Приходите к нам ещё, всегда рады ❤"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Донер готовит человек с тяжелыми золотыми руками кекс короче",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Нурба Великолепный",
+    "id": "53566749",
+    "last_name": null,
+    "name": "Нурба Великолепный",
+    "photo_preview_urls": {
+     "1920x": "https://i1.photo.2gis.com/images/profile/30258560214148277_7dc2_1920x.jpg",
+     "320x": "https://i1.photo.2gis.com/images/profile/30258560214148277_7dc2_320x.jpg",
+     "640x": "https://i1.photo.2gis.com/images/profile/30258560214148277_7dc2_640x.jpg",
+     "64x64": "https://i1.photo.2gis.com/images/profile/30258560214148277_7dc2_64x64.jpg",
+     "url": "https://i1.photo.2gis.com/images/profile/30258560214148277_7dc2.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "fd2ef73b7ef046c88f0f981651c2cc3b",
+    "reviews_count": 6,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-02-04T00:22:37.569598+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "137593333",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:16:43.23688+07:00",
+    "id": "42389596",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый вечер! Спасибо вам большое за приятный отклик 🙏👌 Рады были вам помочь ❤"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "рома класс",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "hopelesslydevoteddd “””",
+    "id": "67372875",
+    "last_name": null,
+    "name": "hopelesslydevoteddd “””",
+    "photo_preview_urls": {
+     "1920x": "https://i8.photo.2gis.com/images/profile/30258560230382448_4f2e_1920x.jpg",
+     "320x": "https://i8.photo.2gis.com/images/profile/30258560230382448_4f2e_320x.jpg",
+     "640x": "https://i8.photo.2gis.com/images/profile/30258560230382448_4f2e_640x.jpg",
+     "64x64": "https://i8.photo.2gis.com/images/profile/30258560230382448_4f2e_64x64.jpg",
+     "url": "https://i8.photo.2gis.com/images/profile/30258560230382448_4f2e.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "69da0d53f7854fcea74a26ed1fa6cc1c",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-01-28T19:00:31.220847+07:00",
+   "date_edited": "2025-01-28T19:00:46.852707+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "136258225",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:17:18.541182+07:00",
+    "id": "42389620",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Здравствуйте. Спасибо вам за ваш отзыв 😉 Были рады помочь."
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Добер уже легенда!",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Dmitriy Kuleznev",
+    "id": "27319199",
+    "last_name": null,
+    "name": "Dmitriy Kuleznev",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "51aa1be683c643968f24e3f1bf334efd",
+    "reviews_count": 24,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-01-28T17:02:27.206243+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "136233822",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:17:42.092986+07:00",
+    "id": "42389635",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый день, спасибо большое за добрые слова 💛 Были рады знакомству 😁"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "здравствуйте! классный донер🤩 все очень понравилось! просто супер \nобслуживание также достойно похвалы 😚 веселые ребята , молодцы 👏🏽",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Назым .",
+    "id": "52565065",
+    "last_name": null,
+    "name": "Назым .",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "2c7bcf7b479d4f918609bba98107e5a1",
+    "reviews_count": 7,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2025-01-23T04:04:00.280823+07:00",
+   "date_edited": "2025-01-25T19:58:41.746534+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "135307274",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2025-02-19T11:17:58.474591+07:00",
+    "id": "42389652",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый день, спасибо вам, что выбрали нас 😉 Мы старались 💛"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "tema navernoe",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "🦊",
+    "id": "58171929",
+    "last_name": null,
+    "name": "🦊",
+    "photo_preview_urls": {
+     "1920x": "https://i2.photo.2gis.com/images/profile/30258560331605749_4a0f_1920x.jpg",
+     "320x": "https://i2.photo.2gis.com/images/profile/30258560331605749_4a0f_320x.jpg",
+     "640x": "https://i2.photo.2gis.com/images/profile/30258560331605749_4a0f_640x.jpg",
+     "64x64": "https://i2.photo.2gis.com/images/profile/30258560331605749_4a0f_64x64.jpg",
+     "url": "https://i2.photo.2gis.com/images/profile/30258560331605749_4a0f.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "26467e299a2d47179402172a3829af58",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-01-09T11:06:37.28428+07:00",
+   "date_edited": "2025-01-09T11:07:15.867788+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "132551811",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Джиги донер куштты тема унады ахуитилно ",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Тугис сонып тур",
+    "id": "51842175",
+    "last_name": null,
+    "name": "Тугис сонып тур",
+    "photo_preview_urls": {
+     "1920x": "https://i8.photo.2gis.com/images/profile/30258560273434160_b3a1_1920x.jpg",
+     "320x": "https://i8.photo.2gis.com/images/profile/30258560273434160_b3a1_320x.jpg",
+     "640x": "https://i8.photo.2gis.com/images/profile/30258560273434160_b3a1_640x.jpg",
+     "64x64": "https://i8.photo.2gis.com/images/profile/30258560273434160_b3a1_64x64.jpg",
+     "url": "https://i8.photo.2gis.com/images/profile/30258560273434160_b3a1.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "ef48f143643a4db0ad130de5dfeec3de",
+    "reviews_count": 2,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2024-11-08T00:38:53.217775+07:00",
+   "date_edited": "2025-01-09T11:04:23.17301+07:00",
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "120538338",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Күшті екен!\nЖақсы екен емәәә!",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Нурхан",
+    "id": "51776904",
+    "last_name": null,
+    "name": "Нурхан",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "beb9fd3e5f1e48c9a73b66a059479882",
+    "reviews_count": 5,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 0,
+   "date_created": "2025-01-07T22:58:56.090005+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "132326717",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": null,
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "кайф донеры",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Рома Черныш",
+    "id": "54548362",
+    "last_name": null,
+    "name": "Рома Черныш",
+    "photo_preview_urls": {
+     "1920x": "https://i1.photo.2gis.com/images/profile/30258560218755202_159a_1920x.jpg",
+     "320x": "https://i1.photo.2gis.com/images/profile/30258560218755202_159a_320x.jpg",
+     "640x": "https://i1.photo.2gis.com/images/profile/30258560218755202_159a_640x.jpg",
+     "64x64": "https://i1.photo.2gis.com/images/profile/30258560218755202_159a_64x64.jpg",
+     "url": "https://i1.photo.2gis.com/images/profile/30258560218755202_159a.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "233048da204a4da5be0ebb51a9d011e9",
+    "reviews_count": 1,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2024-11-04T13:45:59.203401+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "119930243",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2024-11-05T20:21:37.222765+07:00",
+    "id": "37278477",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый вечер. Спасибо большое, что выбрали нас. Ждём вас вновь 💛"
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Очень вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Ри Джи",
+    "id": "30226009",
+    "last_name": null,
+    "name": "Ри Джи",
+    "photo_preview_urls": {
+     "1920x": "https://i4.photo.2gis.com/images/profile/30258560070529050_635a_1920x.jpg",
+     "320x": "https://i4.photo.2gis.com/images/profile/30258560070529050_635a_320x.jpg",
+     "640x": "https://i4.photo.2gis.com/images/profile/30258560070529050_635a_640x.jpg",
+     "64x64": "https://i4.photo.2gis.com/images/profile/30258560070529050_635a_64x64.jpg",
+     "url": "https://i4.photo.2gis.com/images/profile/30258560070529050_635a.jpg"
+    },
+    "provider": "2gis",
+    "public_id": "9b231f0496c548deaa7050edc43acd03",
+    "reviews_count": 56,
+    "url": ""
+   }
+  },
+  {
+   "additional_data": {
+    "external_id": null,
+    "filtered_facts": null,
+    "has_unresolved_complaints": false,
+    "ip": "",
+    "is_liked": null,
+    "is_unrated_permanently": null,
+    "pin_status": "none",
+    "status_history": [],
+    "user_agent": ""
+   },
+   "comments_count": 1,
+   "date_created": "2024-11-02T17:44:29.605171+07:00",
+   "date_edited": null,
+   "hiding_reason": null,
+   "hiding_type": null,
+   "id": "119514487",
+   "is_hidden": false,
+   "is_rated": true,
+   "is_verified": false,
+   "likes_count": 0,
+   "object": {
+    "id": "70000001094311159",
+    "type": "branch"
+   },
+   "official_answer": {
+    "date_created": "2024-11-05T20:21:40.485573+07:00",
+    "id": "37278482",
+    "logo_preview_urls": {},
+    "org_name": "Dober doner, кафе-донерная",
+    "text": "Добрый вечер, спасибо вам, что выбрали нас 🙏👌 Приходите в гости ещё."
+   },
+   "on_moderation": false,
+   "photos": [],
+   "provider": "2gis",
+   "rating": 5,
+   "region_id": 167,
+   "source": null,
+   "text": "Сочно , вкусно",
+   "url": "",
+   "user": {
+    "additional_data": {
+     "email": null
+    },
+    "first_name": "Тимофей Т",
+    "id": "62336742",
+    "last_name": null,
+    "name": "Тимофей Т",
+    "photo_preview_urls": {
+     "1920x": "",
+     "320x": "",
+     "640x": "",
+     "64x64": "",
+     "url": ""
+    },
+    "provider": "2gis",
+    "public_id": "f9c4b3629f284060a46c9c7f7545c7bf",
+    "reviews_count": 2,
+    "url": ""
+   }
+  }
+ ]
+}
