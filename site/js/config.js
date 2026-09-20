@@ -431,6 +431,7 @@ window.DOBER = {
           }]
         },
         {
+          // В меню сети базовой указана бутылка 1 л (950 ₸), 0,5 л — вариантом; здесь порядок обычный: 0,5 л базой.
           id: 'cola-zero', name: 'Coca-Cola Zero', price: 700, image: 'img/cola-zero.jpg',
           groups: [{
             id: 'volume', title: 'Объём',

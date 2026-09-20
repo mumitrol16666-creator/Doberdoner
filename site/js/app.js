@@ -47,6 +47,8 @@
   const groupsOf = item => (item && item.groups) || [];
   const extrasOf = item => (item && item.extras) || [];
   const hasChoice = item => groupsOf(item).length > 0 || extrasOf(item).length > 0;
+  // группы, где вариант — это сам объём порции: в карточке показываем полную цену, а не надбавку
+  const BASE_GROUPS = ['size', 'portion', 'volume', 'patty'];
 
   // Что выбрано в карточке по умолчанию: option.def, переопределяется item.defaults
   function defaultSel(item) {
@@ -400,6 +402,7 @@
     const body = $('[data-item-body]');
     body.scrollTop = 0;
 
+    // у групп «размер / порция / объём» показываем полную цену варианта, у остальных — надбавку
     const groups = groupsOf(item).map(g => el('div', { class: 'opt' }, [
       el('div', { class: 'opt__t', text: g.title }),
       el('div', { class: 'opts' }, g.options.map(o => el('label', { class: 'opts__o' }, [
@@ -409,7 +412,8 @@
         }),
         el('span', {}, [
           el('i', { text: o.name }),
-          o.price ? el('b', { text: '+' + money(o.price) }) : null
+          BASE_GROUPS.includes(g.id) ? el('b', { text: money((item.price || 0) + (o.price || 0)) })
+            : o.price ? el('b', { text: '+' + money(o.price) }) : null
         ])
       ])))
     ]));
