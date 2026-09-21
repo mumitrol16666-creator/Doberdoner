@@ -160,10 +160,13 @@ python3 -m http.server 4174 --directory site
 
 ## Публикация
 
-Любой статический хостинг: перетащить папку `site/` в Netlify Drop либо включить GitHub Pages
-(workflow `.github/workflows/pages.yml` публикует папку `site/` при пуше в `main`).
-После появления домена заменить в `index.html` и `menu.html` `og:image` на абсолютный адрес
-(`https://ваш-домен/img/dober-star.jpg`), чтобы превью в мессенджерах было с картинкой.
+Сайт публикуется на GitHub Pages через GitHub Actions (`.github/workflows/pages.yml`): при каждом пуше
+в `main` в интернет уходит только папка `site/`. Адрес: https://mumitrol16666-creator.github.io/Doberdoner/
+(Settings → Pages → Source: GitHub Actions). Деплой занимает 1–2 минуты после пуша.
+
+Когда появится свой домен — вписать его в Settings → Pages → Custom domain, заменить `og:image` в
+`index.html` и `menu.html` на абсолютный адрес (`https://домен/img/dober-star.jpg`) и поменять `SITE_URL`
+в `print/menu-a4.html` (адрес для QR на настольных меню), затем пересобрать PDF.
 
 ## Обновить данные
 
