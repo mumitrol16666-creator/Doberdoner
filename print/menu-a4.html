@@ -41,9 +41,8 @@
     .head::after { content: ''; position: absolute; left: 0; right: 0; bottom: -2.2mm; height: 2.2mm; background: var(--red); }
     .head__tile { background: #fff; border-radius: 1.6mm; padding: 1.4mm 2.2mm; display: flex; }
     .head__logo { height: 15mm; width: auto; }
-    .head__brand { display: flex; flex-direction: column; line-height: .9; }
-    .head__brand b { font: 700 23pt/.9 'Oswald', sans-serif; letter-spacing: .05em; color: var(--red); -webkit-text-stroke: .6mm #fff; paint-order: stroke fill; }
-    .head__brand span { font: 700 12pt/1 'Oswald', sans-serif; letter-spacing: .42em; color: var(--red); -webkit-text-stroke: .4mm #fff; paint-order: stroke fill; margin-top: 1.2mm; }
+    /* надпись как на вывеске: красные буквы с белой обводкой внутри контура */
+    .head__word { height: 16mm; width: auto; display: block; }
     .head__title { margin-left: auto; text-align: right; }
     .head__title h1 { font: 700 24pt/.95 'Oswald', sans-serif; text-transform: uppercase; margin: 0; }
     .head__title h1 em { background: var(--red); color: #fff; font-style: normal; padding: 0 2mm; border-radius: 1.5mm; }
@@ -141,7 +140,7 @@
   <main class="page">
     <header class="head">
       <span class="head__tile"><img class="head__logo" src="../brand/logo-navy.png" alt=""></span>
-      <div class="head__brand"><b>DOBER</b><span>DONER</span></div>
+      <img class="head__word" src="../site/img/wordmark.svg" alt="" width="89" height="34">
       <div class="head__title">
         <h1>Собери <em>свой</em> добер!</h1>
         <p>Ничего лишнего — только вкус</p>

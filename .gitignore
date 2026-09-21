@@ -4,3 +4,8 @@ __pycache__/
 
 # Оригиналы фото блюд (68 МБ) — скачиваются заново: python3 tools/fetch_menu.py
 data/photos/original/
+
+# Для tools/make_wordmark.js (ставятся по инструкции в начале скрипта)
+tools/node_modules/
+tools/Montserrat-Black.ttf
+tools/package*.json

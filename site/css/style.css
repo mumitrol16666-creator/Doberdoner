@@ -51,11 +51,8 @@ button { font: inherit; }
 .logo { display: flex; align-items: center; gap: 9px; text-decoration: none; flex: none; }
 .logo picture { display: flex; background: #fff; border-radius: 6px; padding: 3px 5px; }
 .logo__mark { width: auto; height: 30px; }
-.logo__txt { display: flex; flex-direction: column; line-height: .95; font-family: 'Oswald', sans-serif; }
-/* буквы как на вывеске: красные с белой обводкой */
-.logo__a, .logo__b { color: var(--red); -webkit-text-stroke: 1.4px #fff; paint-order: stroke fill; }
-.logo__a { font-size: 22px; font-weight: 700; letter-spacing: .05em; }
-.logo__b { font-size: 13px; font-weight: 700; letter-spacing: .28em; -webkit-text-stroke-width: 1px; }
+/* надпись как на вывеске: img/wordmark.svg — буквы в контурах, белая обводка внутри контура */
+.logo__word { height: 34px; width: auto; display: block; }
 .nav { display: flex; gap: 18px; margin-left: 10px; }
 .nav a { text-decoration: none; font-size: 14px; color: var(--on-blue); padding: 6px 0; border-bottom: 2px solid transparent; }
 .nav a:hover { color: #fff; border-color: #fff; }
