@@ -1014,7 +1014,7 @@
   }
 
   // ─────────────────────────── отзывы ───────────────────────────
-  const AVA = ['#111113', '#e8ae00', '#4a4a52', '#1a8f57', '#7a3ff2', '#0b7fab'];
+  const AVA = ['#262a78', '#ee1d2f', '#111113', '#1b1e5c', '#4a4a52', '#c8121f'];
   function initials(name) {
     const words = name.split(/\s+/).filter(w => /^[\p{L}]/u.test(w));
     const s = words.slice(0, 2).map(w => Array.from(w)[0].toUpperCase()).join('');
