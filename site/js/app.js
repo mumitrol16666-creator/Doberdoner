@@ -73,7 +73,11 @@
 
   // ───────────────────────────── филиалы ─────────────────────────────
   const BRANCHES = CFG.branches.filter(b => !b.hidden);
-  let branch = BRANCHES.find(b => b.id === store.get('dober.branch.v1')) || BRANCHES[0];
+  // ?branch=eset-batyra в ссылке (QR на столе в кафе) сразу выбирает эту точку и запоминает её
+  const branchFromUrl = new URLSearchParams(location.search).get('branch');
+  let branch = BRANCHES.find(b => b.id === branchFromUrl) ||
+    BRANCHES.find(b => b.id === store.get('dober.branch.v1')) || BRANCHES[0];
+  if (branch.id === branchFromUrl) store.set('dober.branch.v1', branch.id);
   const branchOf = id => BRANCHES.find(b => b.id === id) || BRANCHES[0];
   let forcedPickup = false;      // самовывоз включён сайтом, а не гостем
 
