@@ -48,15 +48,16 @@ button { font: inherit; }
   box-shadow: 0 2px 20px rgba(0, 0, 0, .25);
 }
 .top__in { display: flex; align-items: center; gap: 18px; height: var(--head); }
-.logo { display: flex; align-items: center; gap: 9px; text-decoration: none; flex: none; }
-.logo picture { display: flex; background: #fff; border-radius: 6px; padding: 3px 5px; }
+.logo { display: flex; align-items: center; gap: 9px; text-decoration: none; flex: 0 1 auto; min-width: 0; }
+.logo picture { display: flex; flex: none; background: #fff; border-radius: 6px; padding: 3px 5px; }
 .logo__mark { width: auto; height: 30px; }
 /* надпись как на вывеске: img/wordmark.svg — буквы в контурах, белая обводка внутри контура */
-.logo__word { height: 34px; width: auto; display: block; }
+/* при нехватке места надпись сжимается пропорционально, а не выталкивает корзину за экран */
+.logo__word { height: 34px; width: auto; max-width: 100%; min-width: 0; display: block; object-fit: contain; object-position: left center; }
 .nav { display: flex; gap: 18px; margin-left: 10px; }
 .nav a { text-decoration: none; font-size: 14px; color: var(--on-blue); padding: 6px 0; border-bottom: 2px solid transparent; }
 .nav a:hover { color: #fff; border-color: #fff; }
-.top__right { margin-left: auto; display: flex; align-items: center; gap: 12px; }
+.top__right { margin-left: auto; display: flex; align-items: center; gap: 12px; flex: none; }
 .language-switch { display: flex; border: 1px solid rgba(255, 255, 255, .4); border-radius: 999px; overflow: hidden; }
 .language-switch a { text-decoration: none; font-size: 12px; font-weight: 600; padding: 5px 10px; color: var(--on-blue); }
 .language-switch a[aria-current] { background: #fff; color: var(--blue); }
@@ -587,12 +588,13 @@ html[lang="ru"] [data-lang-block="kk"], html[lang="kk"] [data-lang-block="ru"] {
   .section { padding: 34px 0; }
   .card__desc { -webkit-line-clamp: 2; }
   .rating__top { flex-wrap: wrap; }
+  .card__foot { flex-direction: column; align-items: stretch; gap: 8px; }
+  .card__act .btn { width: 100%; }
+  .card__act .stepper { width: 100%; justify-content: space-between; }
 }
 @media (max-width: 420px) {
   .cards, .hits { grid-template-columns: 1fr 1fr; gap: 10px; }
   .cartbar { padding: 11px 14px; gap: 8px; }
-  .card__foot { flex-direction: column; align-items: stretch; }
-  .card__act .btn { width: 100%; }
   .cartbar__l span, .cartbar__r span { font-size: 14px; }
   .cartbar__r b { font-size: 16px; }
   .card__body { padding: 10px; }
