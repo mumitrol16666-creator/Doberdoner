@@ -90,6 +90,14 @@ const SIDE_SAUCE = {
 };
 
 window.DOBER = {
+  // Адрес сайта и видимость в поиске.
+  //   url — полный адрес с «/» на конце: из него собираются ссылки для поисковиков и QR на настольных меню
+  //   indexable: false — сайт скрыт от поисковиков (демо). Перед запуском поставить true — и всё.
+  site: {
+    url: 'https://mumitrol16666-creator.github.io/Doberdoner/',
+    indexable: false
+  },
+
   brand: {
     name: 'Dober Doner',
     legalName: 'Dober doner',

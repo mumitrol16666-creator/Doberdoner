@@ -23,6 +23,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # меню, цены, точки и отзывы — в HTML для поисковиков, из site/js/config.js
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/build_static.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

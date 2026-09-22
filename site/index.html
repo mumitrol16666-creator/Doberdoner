@@ -3,19 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="canonical" href="https://mumitrol16666-creator.github.io/Doberdoner/">
+  <!-- Сайт скрыт от поисковиков: в site/js/config.js site.indexable = false. Для запуска поставить true. -->
+  <meta name="robots" content="noindex, nofollow">
   <title>Dober Doner — донеры и бургеры в Актобе и Хромтау</title>
   <meta name="description" content="Dober Doner: доберы от 990 ₸, бургеры, чикен и гарниры. 4 точки в Актобе и Хромтау, доставка и навынос. Соберите заказ на сайте и отправьте в WhatsApp своей точки.">
-  <!-- ДЕМО-РЕЖИМ: сайт скрыт от поисковиков. Перед официальным запуском удалить эту строку. -->
-  <meta name="robots" content="noindex, nofollow">
   <meta name="theme-color" content="#262a78">
   <meta name="format-detection" content="telephone=no">
-  <script src="js/i18n.js?v=20260920-11"></script>
+  <script src="js/i18n.js?v=20260920-12"></script>
 
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ru_KZ">
   <meta property="og:title" content="Dober Doner — донеры и бургеры в Актобе и Хромтау">
   <meta property="og:description" content="Доберы от 990 ₸, бургеры, чикен. 4 точки, доставка и навынос. Заказ в WhatsApp за минуту.">
-  <meta property="og:image" content="img/dober-star.jpg">
+  <meta property="og:image" content="https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg">
 
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="favicon.png">
@@ -23,14 +24,21 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;600;700&family=Oswald:wght@700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20260920-11">
+  <link rel="stylesheet" href="css/style.css?v=20260920-12">
   <script type="application/ld+json">
-  [
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
       "@type": "FastFoodRestaurant",
-      "name": "Dober Doner — на Шайкенова",
+      "@id": "https://mumitrol16666-creator.github.io/Doberdoner/#shaikenova",
+      "name": "Dober Doner — На Шайкенова",
+      "url": "https://mumitrol16666-creator.github.io/Doberdoner/",
+      "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg",
+      "logo": "https://mumitrol16666-creator.github.io/Doberdoner/favicon.png",
       "servesCuisine": [
         "Донер",
+        "Шаурма",
         "Бургеры",
         "Фастфуд"
       ],
@@ -38,7 +46,7 @@
       "telephone": "+77783869447",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "улица Нагашбай Шайкенова, 20",
+        "streetAddress": "ул. Нагашбай Шайкенова, 20, 1 этаж, 11-й микрорайон",
         "addressLocality": "Актобе",
         "addressRegion": "Актюбинская область",
         "addressCountry": "KZ"
@@ -49,22 +57,32 @@
         "longitude": 57.201618
       },
       "openingHours": "Mo-Su 10:00-24:00",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.9,
-        "reviewCount": 553
+      "hasMenu": {
+        "@id": "https://mumitrol16666-creator.github.io/Doberdoner/menu.html#menu"
       },
+      "acceptsReservations": false,
       "sameAs": [
         "https://www.instagram.com/dober__doner/",
         "https://www.facebook.com/doberdoner/",
         "https://2gis.kz/aktobe/firm/70000001060010769"
-      ]
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.9,
+        "ratingCount": 553,
+        "bestRating": 5
+      }
     },
     {
       "@type": "FastFoodRestaurant",
-      "name": "Dober Doner — на Есет батыра",
+      "@id": "https://mumitrol16666-creator.github.io/Doberdoner/#eset-batyra",
+      "name": "Dober Doner — На Есет батыра",
+      "url": "https://mumitrol16666-creator.github.io/Doberdoner/",
+      "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg",
+      "logo": "https://mumitrol16666-creator.github.io/Doberdoner/favicon.png",
       "servesCuisine": [
         "Донер",
+        "Шаурма",
         "Бургеры",
         "Фастфуд"
       ],
@@ -72,7 +90,7 @@
       "telephone": "+77007133458",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "улица Есет батыра, 83",
+        "streetAddress": "ул. Есет батыра, 83, 1 этаж, 5-й микрорайон",
         "addressLocality": "Актобе",
         "addressRegion": "Актюбинская область",
         "addressCountry": "KZ"
@@ -83,22 +101,32 @@
         "longitude": 57.160313
       },
       "openingHours": "Mo-Su 10:00-24:00",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.8,
-        "reviewCount": 521
+      "hasMenu": {
+        "@id": "https://mumitrol16666-creator.github.io/Doberdoner/menu.html#menu"
       },
+      "acceptsReservations": false,
       "sameAs": [
         "https://www.instagram.com/dober__doner/",
         "https://www.facebook.com/doberdoner/",
         "https://2gis.kz/aktobe/firm/70000001092741150"
-      ]
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.8,
+        "ratingCount": 521,
+        "bestRating": 5
+      }
     },
     {
       "@type": "FastFoodRestaurant",
-      "name": "Dober Doner — City Shopping Center",
+      "@id": "https://mumitrol16666-creator.github.io/Doberdoner/#city-mall",
+      "name": "Dober Doner — В City Shopping Center",
+      "url": "https://mumitrol16666-creator.github.io/Doberdoner/",
+      "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg",
+      "logo": "https://mumitrol16666-creator.github.io/Doberdoner/favicon.png",
       "servesCuisine": [
         "Донер",
+        "Шаурма",
         "Бургеры",
         "Фастфуд"
       ],
@@ -106,7 +134,7 @@
       "telephone": "+77023988310",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "12-й микрорайон, 21л",
+        "streetAddress": "12-й микрорайон, 21л, ТЦ City Shopping Center, 1 этаж",
         "addressLocality": "Актобе",
         "addressRegion": "Актюбинская область",
         "addressCountry": "KZ"
@@ -117,22 +145,32 @@
         "longitude": 57.195553
       },
       "openingHours": "Mo-Su 10:00-22:00",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.8,
-        "reviewCount": 57
+      "hasMenu": {
+        "@id": "https://mumitrol16666-creator.github.io/Doberdoner/menu.html#menu"
       },
+      "acceptsReservations": false,
       "sameAs": [
         "https://www.instagram.com/dober__doner/",
         "https://www.facebook.com/doberdoner/",
         "https://2gis.kz/aktobe/firm/70000001116881897"
-      ]
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.8,
+        "ratingCount": 57,
+        "bestRating": 5
+      }
     },
     {
       "@type": "FastFoodRestaurant",
-      "name": "Dober Doner — Хромтау",
+      "@id": "https://mumitrol16666-creator.github.io/Doberdoner/#khromtau",
+      "name": "Dober Doner — В Хромтау",
+      "url": "https://mumitrol16666-creator.github.io/Doberdoner/",
+      "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg",
+      "logo": "https://mumitrol16666-creator.github.io/Doberdoner/favicon.png",
       "servesCuisine": [
         "Донер",
+        "Шаурма",
         "Бургеры",
         "Фастфуд"
       ],
@@ -140,7 +178,7 @@
       "telephone": "+77002608397",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "улица Мухтара Ауэзова, 9а",
+        "streetAddress": "ул. Мухтара Ауэзова, 9а, 1 этаж",
         "addressLocality": "Хромтау",
         "addressRegion": "Актюбинская область",
         "addressCountry": "KZ"
@@ -151,18 +189,513 @@
         "longitude": 58.428488
       },
       "openingHours": "Mo-Su 10:00-02:00",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.7,
-        "reviewCount": 98
+      "hasMenu": {
+        "@id": "https://mumitrol16666-creator.github.io/Doberdoner/menu.html#menu"
       },
+      "acceptsReservations": false,
       "sameAs": [
         "https://www.instagram.com/dober__doner/",
         "https://www.facebook.com/doberdoner/",
         "https://2gis.kz/aktobe/firm/70000001094311159"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.7,
+        "ratingCount": 98,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Menu",
+      "@id": "https://mumitrol16666-creator.github.io/Doberdoner/menu.html#menu",
+      "name": "Меню Dober Doner",
+      "inLanguage": "ru",
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Доберы",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "DOBER STAR",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Мясо на выбор, жареный картофель, маринованные огурчики, свежие помидоры, нежный айоли и фирменный соус — в хрустящем лаваше.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-star.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "DOBER DONER",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Свежие помидоры и огурцы, пекинская капуста, картофель, три фирменных соуса и мясо на выбор.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-doner.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "DOBER MEKS",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Охотничьи говяжьи колбаски, жареный картофель, сладкая кукуруза, маринованные огурчики и свежие помидоры, айоли и фирменный соус, жгучий халапеньо.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dober-meks.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "ПП-шнейница",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Свежие помидоры и огурцы, пекинская капуста, морковь по-корейски, два фирменных соуса и мясо на выбор.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/pp-shneinica.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "GRIBOEDOV",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Жареный картофель, нежные грибы, маринованные огурцы, свежие помидоры, соусы айоли, ремулад и грибной, акцент луковых чипсов.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/griboedov.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Чёрная жемчужина",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Чёрный лаваш, пекинская капуста, картофель, жареные шампиньоны, маринованные огурцы и два секретных соуса капитана.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/black-pearl.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Джимиччури",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Курица или говядина, жареный картофель, маринованные огурчики, свежие помидоры, айоли, айсберг и соус чимичури с халапеньо.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/jimichurri.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "DOBER Louis za Verton",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1380",
+                "priceCurrency": "KZT"
+              },
+              "description": "Картофель, свежие овощи — помидоры, огурцы, пекинская капуста, кукуруза, сыр креметте и сладкая горчица.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/louis.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Добер ПО-БРАТСКИ",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "990",
+                "priceCurrency": "KZT"
+              },
+              "description": "Сочный донер с картофелем фри, свежими овощами и фирменными соусами — по-братски, по хорошей цене.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/po-bratski.jpg"
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Бургеры",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Чики Брики",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "2180",
+                "priceCurrency": "KZT"
+              },
+              "description": "Сочный куриный бургер с чеддером, айсбергом, маринованными огурцами и соусами BBQ и кетчуп.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/chiki-briki.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "BEEF Бургер",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "2470",
+                "priceCurrency": "KZT"
+              },
+              "description": "Говяжья котлета, салат коул слоу, маринованные огурцы и свежие помидоры, сыр чеддер, соусы айоли, BBQ, кетчуп и фирменный.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/beef-burger.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Ласковый мерзавец",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "2660",
+                "priceCurrency": "KZT"
+              },
+              "description": "Куриная котлета с жареными грибами, помидорами и моцареллой, под соусами айоли, ремулад, грибным и BBQ, с луковыми чипсами.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/merzavec.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Чикен Стоун",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "2950",
+                "priceCurrency": "KZT"
+              },
+              "description": "Куриная котлета с айсбергом, маринованными огурцами и свежими помидорами, чеддер и соусы айоли, BBQ, кетчуп и фирменный.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/chicken-stone.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Джиперс Криперс",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "3340",
+                "priceCurrency": "KZT"
+              },
+              "description": "Куриный бургер с чеддером, свежими помидорами, хрустящим айсбергом, соусом BBQ и фирменным соусом, с луковыми кольцами.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/jeepers.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Вертушка Джеки Чана",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "3430",
+                "priceCurrency": "KZT"
+              },
+              "description": "Говяжья котлета и охотничьи колбаски, айсберг, маринованные огурцы, помидор и чеддер, соусы айоли, сладкий чили, BBQ и фирменный.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/vertushka.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Чикаго Блюз",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "3520",
+                "priceCurrency": "KZT"
+              },
+              "description": "Три котлеты — это не шутка: куриные или говяжьи на выбор, тянущаяся моцарелла, маринованные огурцы, халапеньо и соусы BBQ и кетчуп.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/chicago.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Бургер «DOBERMAN»",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "3710",
+                "priceCurrency": "KZT"
+              },
+              "description": "Две котлеты — говяжья и куриная, айсберг, фасоль, свежий помидор, чеддер и моцарелла, соусы лечо, BBQ, чимичури, аджика и две горчицы.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/doberman.jpg"
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Чикен",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Чикен",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "2200",
+                "priceCurrency": "KZT"
+              },
+              "description": "Крылышки, жаренные в фирменной панировке. Соус можно вмешать или взять отдельно.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/chicken.jpg"
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Гарниры",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Картофель фри",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "800",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/fries.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Картофельные дольки",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1000",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/wedges.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Нагетсы",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "850",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/nuggets.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Луковые кольца",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "1500",
+                "priceCurrency": "KZT"
+              },
+              "description": "Золотистые луковые кольца с хрустящей корочкой.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/onion-rings.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Доберсы",
+              "offers": {
+                "@type": "Offer",
+                "price": "2500",
+                "priceCurrency": "KZT"
+              },
+              "description": "Сочное куриное филе, обжаренное в панировке. Подаётся с соусом ремулад.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/dobersy.jpg"
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Соусы и добавки",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Соус BBQ",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sauce-bbq.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Соус сырный",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sauce-cheese.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Медово-чесночный",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sauce-honey.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Сладкий чили",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sauce-chili.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Соус белый",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sauce-white.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Кетчуп",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/ketchup.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Перчик",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/pepper.jpg"
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Напитки",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Coca-Cola",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "700",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/cola.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Coca-Cola Zero",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "700",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/cola-zero.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Sprite",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "700",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/sprite.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fanta",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "700",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/fanta.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fanta Granat",
+              "offers": {
+                "@type": "Offer",
+                "price": "750",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/fanta-granat.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Чай Fuse Tea",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "700",
+                "priceCurrency": "KZT"
+              },
+              "description": "В ассортименте.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/fusetea.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Компот из сухофруктов",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "550",
+                "priceCurrency": "KZT"
+              },
+              "description": "Насыщенный, ароматный, без лишнего сахара — как у бабушки.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/compote.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Турецкий айран",
+              "offers": {
+                "@type": "Offer",
+                "price": "450",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/ayran.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Вода BonAqua",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "400",
+                "priceCurrency": "KZT"
+              },
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/bonaqua.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Сок Piko с трубочкой",
+              "offers": {
+                "@type": "Offer",
+                "price": "550",
+                "priceCurrency": "KZT"
+              },
+              "description": "В ассортименте.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/piko.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Piko Pulpy",
+              "offers": {
+                "@type": "AggregateOffer",
+                "lowPrice": "900",
+                "priceCurrency": "KZT"
+              },
+              "description": "В ассортименте.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/piko-pulpy.jpg"
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Piko тетрапак",
+              "offers": {
+                "@type": "Offer",
+                "price": "1300",
+                "priceCurrency": "KZT"
+              },
+              "description": "В ассортименте.",
+              "image": "https://mumitrol16666-creator.github.io/Doberdoner/img/piko-tetra.jpg"
+            }
+          ]
+        }
       ]
     }
   ]
+}
   </script>
 </head>
 <body>
@@ -260,8 +793,8 @@
         <div class="branchbar__main">
           <svg class="ic"><use href="#i-pin"/></svg>
           <div>
-            <div class="branchbar__t"><b data-branch-name>—</b> <span class="branchbar__addr" data-branch-address></span></div>
-            <div class="branchbar__sub"><span data-branch-status></span><span data-branch-delivery></span></div>
+            <div class="branchbar__t"><b data-branch-name>На Шайкенова</b> <span class="branchbar__addr" data-branch-address>ул. Нагашбай Шайкенова, 20</span></div>
+            <div class="branchbar__sub"><span data-branch-status></span><span data-branch-delivery>Доставка 800 ₸, от 8 000 ₸ — бесплатно</span></div>
           </div>
         </div>
         <button class="btn btn--ghost btn--sm" type="button" data-open-branches>
@@ -271,9 +804,9 @@
     </div>
 
     <!-- АКЦИЯ -->
-    <section class="section section--deal" data-promo hidden>
+    <section class="section section--deal" data-promo>
       <div class="wrap">
-        <div class="deal" data-promo-box></div>
+        <div class="deal" data-promo-box><!-- static:promo --><div class="deal__media"><img src="img/po-bratski.webp" alt="Добер ПО-БРАТСКИ" loading="lazy" width="800" height="800"></div><div class="deal__body"><span class="deal__badge"><svg class="ic" aria-hidden="true"><use href="#i-fire"/></svg>Акция сети</span><h2>Добер ПО-БРАТСКИ — 990 ₸</h2><p class="deal__text">Сочный донер с картофелем фри, свежими овощами и фирменными соусами. Цена уже со скидкой — промокод не нужен.</p><div class="deal__price"><s>1 380 ₸</s><b>990 ₸</b></div><div class="deal__cta"><a class="btn btn--brand btn--lg" href="menu.html#item-po-bratski">Заказать по акции</a></div></div><!-- /static:promo --></div>
       </div>
     </section>
 
@@ -284,7 +817,7 @@
           <h2>Берут чаще всего</h2>
           <p>Цены — из официального меню сети.</p>
         </div>
-        <div class="hits" data-highlights></div>
+        <div class="hits" data-highlights><!-- static:highlights --><a class="hit" href="menu.html#item-dober-meks"><span class="hit__media"><img src="img/dober-meks-sm.webp" alt="DOBER MEKS" loading="lazy" width="360" height="360"><span class="card__badges"><span class="badge">Хит</span><span class="badge badge--hot">🌶 Острый</span></span></span><span class="hit__name">DOBER MEKS</span><span class="hit__price">от 1 380 ₸</span></a><a class="hit" href="menu.html#item-doberman"><span class="hit__media"><img src="img/doberman-sm.webp" alt="Бургер «DOBERMAN»" loading="lazy" width="360" height="360"><span class="card__badges"><span class="badge">Фирменный</span><span class="badge badge--hot">🌶 Острый</span></span></span><span class="hit__name">Бургер «DOBERMAN»</span><span class="hit__price">от 3 710 ₸</span></a><a class="hit" href="menu.html#item-chicken"><span class="hit__media"><img src="img/chicken-sm.webp" alt="Чикен" loading="lazy" width="360" height="360"></span><span class="hit__name">Чикен</span><span class="hit__price">от 2 200 ₸</span></a><a class="hit" href="menu.html#item-griboedov"><span class="hit__media"><img src="img/griboedov-sm.webp" alt="GRIBOEDOV" loading="lazy" width="360" height="360"><span class="card__badges"><span class="badge">Хит</span></span></span><span class="hit__name">GRIBOEDOV</span><span class="hit__price">от 1 380 ₸</span></a><!-- /static:highlights --></div>
         <a class="btn btn--dark btn--wide" href="menu.html" data-page-link>Всё меню и заказ →</a>
       </div>
     </section>
@@ -303,7 +836,7 @@
           <li><span class="steps__n">4</span><b>Остроту</b><span>не острый, средний или острый</span></li>
           <li><span class="steps__n">5</span><b>Добавки</b><span>сыр, соусы, овощи, перчик</span></li>
         </ol>
-        <div class="cats cats--home" data-teaser></div>
+        <div class="cats cats--home" data-teaser><!-- static:teaser --><a class="tile" href="menu.html#cat-dobers"><span class="tile__e" aria-hidden="true">🌯</span><span class="tile__t">Доберы</span><span class="tile__p">от 990 ₸</span></a><a class="tile" href="menu.html#cat-burgers"><span class="tile__e" aria-hidden="true">🍔</span><span class="tile__t">Бургеры</span><span class="tile__p">от 2 180 ₸</span></a><a class="tile" href="menu.html#cat-chicken"><span class="tile__e" aria-hidden="true">🍗</span><span class="tile__t">Чикен</span><span class="tile__p">от 2 200 ₸</span></a><a class="tile" href="menu.html#cat-sides"><span class="tile__e" aria-hidden="true">🍟</span><span class="tile__t">Гарниры</span><span class="tile__p">от 800 ₸</span></a><a class="tile" href="menu.html#cat-sauces"><span class="tile__e" aria-hidden="true">🥣</span><span class="tile__t">Соусы и добавки</span><span class="tile__p">от 150 ₸</span></a><a class="tile" href="menu.html#cat-drinks"><span class="tile__e" aria-hidden="true">🥤</span><span class="tile__t">Напитки</span><span class="tile__p">от 400 ₸</span></a><!-- /static:teaser --></div>
       </div>
     </section>
 
@@ -314,7 +847,7 @@
           <h2>Наши точки</h2>
           <p>Выберите точку — сайт запомнит её и отправит заказ туда.</p>
         </div>
-        <div class="branchcards" data-branch-cards></div>
+        <div class="branchcards" data-branch-cards><!-- static:branches --><article class="bcard" id="branch-shaikenova"><div class="bcard__head"><h3>На Шайкенова</h3><span class="bcard__rating"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><b>4.9</b><span>553 оценки</span></span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg></span><span>ул. Нагашбай Шайкенова, 20, 1 этаж, 11-й микрорайон, Актобе · остановка «Аз Наурыз»</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg></span><span>Ежедневно 10:00–24:00 · заказы до 23:30</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg></span><span>Доставка 800 ₸, от 8 000 ₸ — бесплатно</span></div><div class="bcard__tags"><span>Зал до 20 мест</span><span>Бесплатный Wi-Fi</span><span>Пандус</span><span>Туалет</span></div><div class="bcard__btns"><a class="btn btn--brand" href="menu.html?branch=shaikenova">Заказать отсюда</a><a class="btn btn--light" href="tel:+77783869447"><svg class="ic" aria-hidden="true"><use href="#i-phone"/></svg>+7 778 386 94 47</a><a class="btn btn--light" href="https://wa.me/77783869447" target="_blank" rel="noopener"><svg class="ic" aria-hidden="true"><use href="#i-whatsapp"/></svg>WhatsApp</a><a class="btn btn--light" href="https://2gis.kz/aktobe/firm/70000001060010769" target="_blank" rel="noopener">2ГИС</a><a class="btn btn--light" href="https://2gis.kz/aktobe/directions/points/%7C57.201618%2C50.283083" target="_blank" rel="noopener">Маршрут</a></div></article><article class="bcard" id="branch-eset-batyra"><div class="bcard__head"><h3>На Есет батыра</h3><span class="bcard__rating"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><b>4.8</b><span>521 оценка</span></span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg></span><span>ул. Есет батыра, 83, 1 этаж, 5-й микрорайон, Актобе · остановка «Дом ветеранов»</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg></span><span>Ежедневно 10:00–24:00 · заказы до 23:30</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg></span><span>Доставка 800 ₸, от 8 000 ₸ — бесплатно</span></div><div class="bcard__tags"><span>Зал до 30 мест</span><span>Летняя веранда</span><span>Бесплатный Wi-Fi</span><span>Туалет</span></div><div class="bcard__btns"><a class="btn btn--brand" href="menu.html?branch=eset-batyra">Заказать отсюда</a><a class="btn btn--light" href="tel:+77007133458"><svg class="ic" aria-hidden="true"><use href="#i-phone"/></svg>+7 700 713 34 58</a><a class="btn btn--light" href="https://wa.me/77007133458" target="_blank" rel="noopener"><svg class="ic" aria-hidden="true"><use href="#i-whatsapp"/></svg>WhatsApp</a><a class="btn btn--light" href="https://2gis.kz/aktobe/firm/70000001092741150" target="_blank" rel="noopener">2ГИС</a><a class="btn btn--light" href="https://2gis.kz/aktobe/directions/points/%7C57.160313%2C50.301322" target="_blank" rel="noopener">Маршрут</a></div></article><article class="bcard" id="branch-city-mall"><div class="bcard__head"><h3>В City Shopping Center</h3><span class="bcard__rating"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><b>4.8</b><span>57 оценок</span></span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg></span><span>12-й микрорайон, 21л, ТЦ City Shopping Center, 1 этаж, Актобе · остановка «12-й микрорайон»</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg></span><span>Ежедневно 10:00–22:00</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg></span><span>Только навынос</span></div><div class="bcard__tags"><span>Фудкорт торгового центра</span><span>Оплата картой и QR</span></div><div class="bcard__btns"><a class="btn btn--brand" href="menu.html?branch=city-mall">Заказать отсюда</a><a class="btn btn--light" href="tel:+77023988310"><svg class="ic" aria-hidden="true"><use href="#i-phone"/></svg>+7 702 398 83 10</a><a class="btn btn--light" href="https://wa.me/77023988310" target="_blank" rel="noopener"><svg class="ic" aria-hidden="true"><use href="#i-whatsapp"/></svg>WhatsApp</a><a class="btn btn--light" href="https://2gis.kz/aktobe/firm/70000001116881897" target="_blank" rel="noopener">2ГИС</a><a class="btn btn--light" href="https://2gis.kz/aktobe/directions/points/%7C57.195553%2C50.279025" target="_blank" rel="noopener">Маршрут</a></div></article><article class="bcard" id="branch-khromtau"><div class="bcard__head"><h3>В Хромтау</h3><span class="bcard__rating"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><b>4.7</b><span>98 оценок</span></span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg></span><span>ул. Мухтара Ауэзова, 9а, 1 этаж, Хромтау · остановка «Космос»</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg></span><span>Ежедневно 10:00–02:00</span></div><div class="bcard__row"><span><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg></span><span>Доставка и навынос</span></div><div class="bcard__tags"><span>Зал до 20 мест</span><span>Бесплатный Wi-Fi</span><span>Туалет</span><span>Работает до 02:00</span></div><div class="bcard__btns"><a class="btn btn--brand" href="menu.html?branch=khromtau">Заказать отсюда</a><a class="btn btn--light" href="tel:+77002608397"><svg class="ic" aria-hidden="true"><use href="#i-phone"/></svg>+7 700 260 83 97</a><a class="btn btn--light" href="https://wa.me/77002608397" target="_blank" rel="noopener"><svg class="ic" aria-hidden="true"><use href="#i-whatsapp"/></svg>WhatsApp</a><a class="btn btn--light" href="https://2gis.kz/aktobe/firm/70000001094311159" target="_blank" rel="noopener">2ГИС</a><a class="btn btn--light" href="https://2gis.kz/aktobe/directions/points/%7C58.428488%2C50.261343" target="_blank" rel="noopener">Маршрут</a></div></article><!-- /static:branches --></div>
       </div>
     </section>
 
@@ -325,9 +858,10 @@
           <h2>Отзывы гостей</h2>
           <p>Настоящие отзывы из 2ГИС — как есть, без редактуры.</p>
         </div>
-        <div class="rating" data-rating-box></div>
+        <div class="rating" data-rating-box><!-- static:rating --><div class="rating__top"><div class="rating__num">4.6</div><div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><div class="rating__sub">1229 оценок · 776 отзывов в 2ГИС по всем точкам</div></div></div><div class="bars"><div class="bar"><span>5</span><i><b style="width:100%"></b></i><span>582</span></div><div class="bar"><span>4</span><i><b style="width:5%"></b></i><span>28</span></div><div class="bar"><span>3</span><i><b style="width:2%"></b></i><span>12</span></div><div class="bar"><span>2</span><i><b style="width:2%"></b></i><span>9</span></div><div class="bar"><span>1</span><i><b style="width:12%"></b></i><span>68</span></div></div><p class="bars__note">Распределение — по 699 отзывам с оценкой.</p><div class="rating__branches"><span class="rating__branch"><b>4.9</b><span>На Шайкенова</span></span><span class="rating__branch"><b>4.8</b><span>На Есет батыра</span></span><span class="rating__branch"><b>4.8</b><span>В City Shopping Center</span></span><span class="rating__branch"><b>4.7</b><span>В Хромтау</span></span></div><!-- /static:rating --></div>
         <div class="revs">
-          <div class="revs__track" data-reviews tabindex="0" role="group" aria-label="Отзывы, листайте в сторону"></div>
+          <div class="revs__track" data-reviews tabindex="0" role="group" aria-label="Отзывы, листайте в сторону"><!-- static:reviews --><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#262a78" aria-hidden="true">НФ</div><div><div class="rev__name">Нургуль Филипова</div><div class="rev__meta">11 августа 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Спасибо моим девочкам за соус в подарок! Всегда беру только у них. Хороший сервис, администратор отзывчивый всегда тоже! Качество с годами только лучше! Надеюсь вы всегда будете держать высокую планку</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Шайкенова</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#ee1d2f" aria-hidden="true">BB</div><div><div class="rev__name">Banu Baimenova</div><div class="rev__meta">14 августа 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Ассалям алейкум. Донер очень вкусный. Первый раз понравился донер. Не думала,что донер может быть таким вкусным. Мясо вкусное, нежное. Соус в меру. Не течёт по руке, как это обычно бывает в других донерах. Бургеры вообще супер. Слов нет. Одни эмоции))))</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Есет батыра</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#111113" aria-hidden="true">АМ</div><div><div class="rev__name">Артем Майер</div><div class="rev__meta">24 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Очень вкусные донеры, особенно Добер Стар. Порции большие, сытные, сочные. 100% рекомендую данное место</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Шайкенова</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#1b1e5c" aria-hidden="true">АВ</div><div><div class="rev__name">Алена Вагнер</div><div class="rev__meta">3 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Это просто умопомрочительные сочные, мощные бургеры🤩 такого давно не встречали. Пробовали впервые доберман и мерзавца. Мы в восторге! Однозначно вернёмся снова и будем заказывать доставку, рекомендую всем друзьям.</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Есет батыра</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#4a4a52" aria-hidden="true">АК</div><div><div class="rev__name">Альбина Калыбайкызы</div><div class="rev__meta">21 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Іші таза, обслужка, интерьер, бәрі күштіі. Бірнеше рет бардық, біздін любимое место🔥</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Шайкенова</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#c8121f" aria-hidden="true">ОБ</div><div><div class="rev__name">Орландо Блум</div><div class="rev__meta">11 августа 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Вот это донер по-актюбински: мясо — как надо, соус — от души, порция — без жадности. Один взял — второй уже сам просится 😎🔥</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>В City Shopping Center</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#262a78" aria-hidden="true">RS</div><div><div class="rev__name">Rain Stark</div><div class="rev__meta">26 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Очень вкусный донер! Свежие ингредиенты, сочное мясо, всё приготовлено аккуратно. Порции хорошие, персонал вежливый. Остался доволен, обязательно приду ещё. Советую попробовать их фирменный добер Донер</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Есет батыра</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#ee1d2f" aria-hidden="true">ГН</div><div><div class="rev__name">Гулдаурен Нурмаханова</div><div class="rev__meta">20 апреля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Донер вкусный был,спасибо❤️,покупаю у добер донер самые лучшие😍</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>В Хромтау</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#111113" aria-hidden="true">N</div><div><div class="rev__name">Nikolai</div><div class="rev__meta">16 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">За чисто по братский, и донер снёс бошку как вертушка джеки чана</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Шайкенова</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#1b1e5c" aria-hidden="true">АК</div><div><div class="rev__name">Арсен Курманалин</div><div class="rev__meta">11 августа 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Очень вкусные бургеры, и цена приемлемая, сервис хороший, мне понравилось, кстати часто заказываю отсюда, быстро доставляют</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>В City Shopping Center</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#4a4a52" aria-hidden="true">ДМ</div><div><div class="rev__name">Даулет Мукаш</div><div class="rev__meta">30 июля 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Хорошее место с вкусной едой и приятным обслуживанием. Спасибо Асылай и Адеме за вежливость, улыбки и внимательное отношение к каждому гостю. Всегда приятно заходить именно сюда.</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Есет батыра</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#c8121f" aria-hidden="true">Н</div><div><div class="rev__name">Назым .</div><div class="rev__meta">28 января 2025 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">здравствуйте! классный донер🤩 все очень понравилось! просто супер 
+обслуживание также достойно похвалы 😚 веселые ребята , молодцы 👏🏽</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>В Хромтау</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#262a78" aria-hidden="true">ГБ</div><div><div class="rev__name">Гульпари Байбусинова</div><div class="rev__meta">4 июня 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Обалденые донеры , мы всегда покупаем, и каждый раз раз разные, они реально вкусные, сочные, и персонал очень вежливый и приветливый, в помещении чисто и аккуратно место уютное</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>На Шайкенова</span></article><article class="rev"><div class="rev__head"><div class="rev__ava" style="background:#ee1d2f" aria-hidden="true">КЧ</div><div><div class="rev__name">Кристина Чёрная</div><div class="rev__meta">15 августа 2026 г.</div></div></div><span class="stars" role="img" aria-label="Оценка 5 из 5"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg></span><p class="rev__text">Всегда заказываем только у вас! Всё вкусно, быстро и по хорошим ценам. Ещё и новая локация очень удобная</p><span class="rev__tag"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>В City Shopping Center</span></article><!-- /static:reviews --></div>
           <div class="revs__nav">
             <button class="round" type="button" data-rev-prev aria-label="Предыдущие отзывы"><svg class="ic"><use href="#i-left"/></svg></button>
             <button class="round" type="button" data-rev-next aria-label="Следующие отзывы"><svg class="ic"><use href="#i-right"/></svg></button>
@@ -344,7 +878,7 @@
           <h2>Фото блюд</h2>
           <p>Снимки из официального меню сети.</p>
         </div>
-        <div class="gal" data-gallery></div>
+        <div class="gal" data-gallery><!-- static:gallery --><button type="button" class="is-tall" aria-label="Открыть фото: DOBER STAR"><img src="img/dober-star-sm.webp" alt="DOBER STAR" loading="lazy"></button><button type="button" class="is-tall" aria-label="Открыть фото: Бургер «DOBERMAN»"><img src="img/doberman-sm.webp" alt="Бургер «DOBERMAN»" loading="lazy"></button><button type="button" class="" aria-label="Открыть фото: Чикен"><img src="img/chicken-sm.webp" alt="Чикен" loading="lazy"></button><button type="button" class="" aria-label="Открыть фото: DOBER MEKS"><img src="img/dober-meks-sm.webp" alt="DOBER MEKS" loading="lazy"></button><button type="button" class="is-wide" aria-label="Открыть фото: Ласковый мерзавец"><img src="img/merzavec-sm.webp" alt="Ласковый мерзавец" loading="lazy"></button><button type="button" class="" aria-label="Открыть фото: Луковые кольца"><img src="img/onion-rings-sm.webp" alt="Луковые кольца" loading="lazy"></button><button type="button" class="" aria-label="Открыть фото: GRIBOEDOV"><img src="img/griboedov-sm.webp" alt="GRIBOEDOV" loading="lazy"></button><button type="button" class="" aria-label="Открыть фото: Чикаго Блюз"><img src="img/chicago-sm.webp" alt="Чикаго Блюз" loading="lazy"></button><!-- /static:gallery --></div>
       </div>
     </section>
 
@@ -388,10 +922,10 @@
         </div>
         <div class="contacts">
           <ul class="contacts__list">
-            <li><svg class="ic"><use href="#i-pin"/></svg><div><b data-branch-address-full>—</b><span data-branch-landmark></span></div></li>
-            <li><svg class="ic"><use href="#i-clock"/></svg><div><b data-branch-hours>—</b><span data-branch-lastorder></span></div></li>
+            <li><svg class="ic"><use href="#i-pin"/></svg><div><b data-branch-address-full>ул. Нагашбай Шайкенова, 20, 1 этаж, 11-й микрорайон, Актобе</b><span data-branch-landmark>остановка «Аз Наурыз»</span></div></li>
+            <li><svg class="ic"><use href="#i-clock"/></svg><div><b data-branch-hours>Ежедневно 10:00–24:00</b><span data-branch-lastorder>заказы принимаем до 23:30</span></div></li>
             <li><svg class="ic"><use href="#i-phone"/></svg><div><a href="tel:+77783869447" data-phone><b data-phone-text>+7 778 386 94 47</b></a><span>заказы и доставка</span></div></li>
-            <li><svg class="ic"><use href="#i-whatsapp"/></svg><div><a href="https://wa.me/77783869447" target="_blank" rel="noopener" data-wa-chat><b data-wa-text>WhatsApp точки</b></a><span>заказ одним сообщением</span></div></li>
+            <li><svg class="ic"><use href="#i-whatsapp"/></svg><div><a href="https://wa.me/77783869447" target="_blank" rel="noopener" data-wa-chat><b data-wa-text>+7 778 386 94 47</b></a><span>заказ одним сообщением</span></div></li>
             <li><svg class="ic"><use href="#i-instagram"/></svg><div><a href="https://www.instagram.com/dober__doner/" target="_blank" rel="noopener" data-instagram><b>@dober__doner</b></a><span>новинки и акции</span></div></li>
             <li><svg class="ic"><use href="#i-star"/></svg><div><a href="https://go.2gis.com/M9Y68" target="_blank" rel="noopener" data-2gis><b>Открыть в 2ГИС</b></a><span>рейтинг и отзывы</span></div></li>
           </ul>
@@ -446,8 +980,8 @@
 
 <div class="toast" data-toast role="status" aria-live="polite"></div>
 
-<script src="js/config.js?v=20260920-11"></script>
-<script src="js/reviews.js?v=20260920-11"></script>
-<script src="js/app.js?v=20260920-11"></script>
+<script src="js/config.js?v=20260920-12"></script>
+<script src="js/reviews.js?v=20260920-12"></script>
+<script src="js/app.js?v=20260920-12"></script>
 </body>
 </html>

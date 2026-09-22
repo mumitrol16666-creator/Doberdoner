@@ -389,6 +389,9 @@
 
   function renderMenu() {
     const menu = $('[data-menu]'), cats = $('[data-cats]');
+    // в HTML лежит статичная копия меню для поисковиков (tools/build_static.js) — заменяем её живой
+    menu.replaceChildren();
+    cats.replaceChildren();
     CATS.forEach(cat => {
       cats.appendChild(el('a', { href: '#cat-' + cat.id, text: cat.title, 'data-cat': cat.id }));
       menu.appendChild(el('section', { class: 'cat', id: 'cat-' + cat.id, 'aria-labelledby': 'cat-h-' + cat.id }, [
@@ -988,6 +991,7 @@
   function renderTeaser() {
     const box = $('[data-teaser]');
     if (!box) return;
+    box.replaceChildren();
     CATS.forEach(cat => box.appendChild(el('a', { class: 'tile', href: pageUrl('menu.html#cat-' + cat.id) }, [
       el('span', { class: 'tile__e', text: cat.emoji || '🍽️', 'aria-hidden': 'true' }),
       el('span', { class: 'tile__t', text: cat.title }),
@@ -1066,6 +1070,7 @@
     } else if (box) box.hidden = true;
 
     const titleOf = id => (BRANCHES.find(b => b.id === id) || {}).name || '';
+    track.replaceChildren();
     REV.items.forEach((r, i) => {
       const text = el('p', { class: 'rev__text', text: r.text });
       const long = r.text.length > 260 || r.text.split('\n').length > 6;
@@ -1108,6 +1113,7 @@
       alt: ITEMS[g.id].name, shape: g.shape
     }));
     if (!shots.length) return;
+    grid.replaceChildren();
     let index = 0, opener = null;
     const show = i => {
       index = (i + shots.length) % shots.length;

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mumitrol16666-creator.github.io/Doberdoner/sitemap.xml

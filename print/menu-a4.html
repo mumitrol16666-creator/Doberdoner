@@ -219,8 +219,8 @@
   <script>
   (function () {
     'use strict';
-    // Адрес сайта для QR. Когда появится свой домен — поменять здесь и пересобрать PDF (tools/build_print.sh).
-    const SITE_URL = 'https://mumitrol16666-creator.github.io/Doberdoner/menu.html';
+    // Адрес для QR — из site.url в config.js (один адрес на сайт и бумагу). Сменили домен — пересобрать PDF.
+    const SITE_URL = window.DOBER.site.url.replace(/\/?$/, '/') + 'menu.html';
 
     // Короткие подписи — с бумажного меню сети (полный состав — на сайте)
     const TAGLINES = {
