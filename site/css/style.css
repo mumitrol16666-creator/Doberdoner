@@ -600,6 +600,18 @@ html[lang="ru"] [data-lang-block="kk"], html[lang="kk"] [data-lang-block="ru"] {
   .card__act .btn { padding: 8px 10px; font-size: 13px; }
   .card__price b { font-size: 17px; }
 }
+/* шапка на телефоне: статус «Открыто до…» уже есть в плашке точки под шапкой — здесь прячем, чтобы влезла корзина */
+@media (max-width: 600px) {
+  .top__in { gap: 10px; }
+  .top__right { gap: 8px; }
+  .top .status { display: none; }
+}
+@media (max-width: 360px) {
+  .logo { gap: 7px; }
+  .logo__mark { height: 26px; }
+  .logo__word { height: 29px; }
+  .language-switch a { padding: 5px 8px; }
+}
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
