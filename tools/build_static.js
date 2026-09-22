@@ -231,8 +231,18 @@ function head(html, page) {
   // canonical: одна страница без ?lang= и ?branch=
   html = html.replace(/\s*<link rel="canonical"[^>]*>/g, '');
   html = html.replace(/(<meta name="viewport"[^>]*>)/, '$1\n  <link rel="canonical" href="' + canonical + '">');
-  // og:image — абсолютный адрес, иначе мессенджеры не покажут картинку
-  html = html.replace(/<meta property="og:image" content="[^"]*">/, '<meta property="og:image" content="' + URL_BASE + 'img/dober-star.jpg">');
+  // Превью ссылки в WhatsApp / Telegram: своя заставка 1200×630 (tools/build_og.sh), абсолютные адреса
+  const og = page === 'menu.html' ? 'og-menu.jpg' : 'og-home.jpg';
+  html = html.replace(/\s*<meta (property|name)="(og:image[^"]*|og:url|og:site_name|twitter:card)" content="[^"]*">/g, '');
+  html = html.replace(/(<meta property="og:description" content="[^"]*">)/, '$1' +
+    '\n  <meta property="og:url" content="' + canonical + '">' +
+    '\n  <meta property="og:site_name" content="Dober Doner">' +
+    '\n  <meta property="og:image" content="' + URL_BASE + 'img/' + og + '">' +
+    '\n  <meta property="og:image:type" content="image/jpeg">' +
+    '\n  <meta property="og:image:width" content="1200">' +
+    '\n  <meta property="og:image:height" content="630">' +
+    '\n  <meta property="og:image:alt" content="Dober Doner — донеры и бургеры, 4 точки в Актобе и Хромтау">' +
+    '\n  <meta name="twitter:card" content="summary_large_image">');
   // видимость в поиске — по флагу site.indexable
   html = html.replace(/\s*<!-- (ДЕМО-РЕЖИМ|Сайт скрыт от поисковиков)[^>]*-->/g, '').replace(/\s*<meta name="robots"[^>]*>/g, '');
   if (!CFG.site.indexable) {

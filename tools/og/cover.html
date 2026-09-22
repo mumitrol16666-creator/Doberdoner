@@ -1,0 +1,79 @@
+<!doctype html>
+<!--
+  Заставка для превью ссылок (WhatsApp, Telegram, Instagram): 1200×630.
+  Главное — эмблема и заголовок — в центральном квадрате 630×630: маленькое превью WhatsApp обрезает по центру.
+  ?page=home — главная, ?page=menu — страница заказа. Сборка: bash tools/build_og.sh
+-->
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@500;600;700&family=Oswald:wght@700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body { background: radial-gradient(ellipse at 50% 120%, #3a2a7a 0%, #262a78 45%, #1b1e5c 100%);
+         font-family: 'Onest', sans-serif; color: #fff; position: relative; }
+  .side { position: absolute; top: 0; bottom: 0; width: 330px; overflow: hidden; }
+  .side img { width: 100%; height: 100%; object-fit: cover; }
+  .side--l { left: 0; }
+  .side--r { right: 0; }
+  .side::after { content: ''; position: absolute; inset: 0; }
+  .side--l::after { background: linear-gradient(90deg, rgba(27,30,92,0) 35%, #262a78 100%); }
+  .side--r::after { background: linear-gradient(270deg, rgba(27,30,92,0) 35%, #262a78 100%); }
+  .glow { position: absolute; left: 50%; top: 50%; width: 720px; height: 720px; transform: translate(-50%, -50%);
+          background: radial-gradient(circle, rgba(238,29,47,.28), transparent 62%); }
+  .center { position: absolute; left: 285px; width: 630px; top: 0; bottom: 0;
+            display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .lockup { display: flex; align-items: center; gap: 22px; margin-bottom: 30px; }
+  .tile { background: #fff; border-radius: 22px; padding: 12px 18px; box-shadow: 0 14px 40px rgba(0,0,0,.35); }
+  .tile img { height: 104px; display: block; }
+  .word { height: 104px; display: block; }
+  h1 { font: 700 60px/1.12 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: .01em; }
+  h1 em { font-style: normal; background: #ee1d2f; padding: 0 16px; border-radius: 10px; display: inline-block; margin-top: 8px; }
+  .sub { margin-top: 22px; font-size: 25px; font-weight: 500; color: #d6d9f5; }
+  .pills { display: flex; gap: 12px; margin-top: 24px; }
+  .pills span { background: rgba(255,255,255,.12); border: 1.5px solid rgba(255,255,255,.28); border-radius: 999px;
+                padding: 9px 18px; font-size: 21px; font-weight: 600; white-space: nowrap; }
+  .pills b { color: #ffcf33; }
+</style>
+</head>
+<body>
+  <div class="side side--l"><img data-left alt=""></div>
+  <div class="side side--r"><img data-right alt=""></div>
+  <div class="glow"></div>
+  <div class="center">
+    <div class="lockup">
+      <div class="tile"><img src="../../brand/logo-navy.png" alt=""></div>
+      <img class="word" src="../../site/img/wordmark.svg" alt="">
+    </div>
+    <h1 data-title></h1>
+    <p class="sub" data-sub></p>
+    <div class="pills" data-pills></div>
+  </div>
+<script src="../../site/js/config.js"></script>
+<script src="../../site/js/reviews.js"></script>
+<script>
+  const CFG = window.DOBER, S = (window.DOBER_REVIEWS || {}).summary;
+  const page = new URLSearchParams(location.search).get('page') || 'home';
+  const money = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + ' ₸';
+  const items = {}; CFG.menu.forEach(c => c.items.forEach(i => { items[i.id] = i; }));
+  const minDober = Math.min(...CFG.menu.find(c => c.id === 'dobers').items.filter(i => !i.hidden).map(i => i.price));
+  const pages = {
+    home: { left: 'dober-star', right: 'doberman', title: 'Дерзкий донер<br><em>и сочный бургер</em>',
+            sub: 'Актобе · Хромтау · ' + CFG.branches.filter(b => !b.hidden).length + ' точки' },
+    menu: { left: 'chicken', right: 'doberman', title: 'Меню и заказ<br><em>доберы от ' + money(minDober) + '</em>',
+            sub: 'Бургеры · чикен · гарниры · напитки' }
+  };
+  const P = pages[page];
+  document.querySelector('[data-left]').src = '../../site/' + items[P.left].image;
+  document.querySelector('[data-right]').src = '../../site/' + items[P.right].image;
+  document.querySelector('[data-title]').innerHTML = P.title;
+  document.querySelector('[data-sub]').textContent = P.sub;
+  const pills = [];
+  if (S) pills.push('<span><b>★ ' + S.rating.toFixed(1) + '</b> в 2ГИС</span>');
+  pills.push(page === 'home' ? '<span>добер от ' + money(minDober) + '</span>' : '<span>фото и состав блюд</span>');
+  pills.push('<span>заказ в WhatsApp</span>');
+  document.querySelector('[data-pills]').innerHTML = pills.join('');
+</script>
+</body>
+</html>
