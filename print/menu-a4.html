@@ -132,6 +132,14 @@
     .qr__code svg { display: block; width: 29mm; height: 29mm; }
     .qr__code span { display: block; font: 700 8pt/1 'Oswald', sans-serif; text-transform: uppercase; margin-top: 1.6mm; letter-spacing: .04em; color: var(--blue); }
 
+    /* водяной знак (menu-a4.html?…&wm=1): диагональная надпись по всему листу, QR остаётся поверх */
+    .wm { position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: 5; }
+    .wm__in { position: absolute; inset: -40% -60%; transform: rotate(-28deg);
+              display: flex; flex-direction: column; justify-content: space-around; }
+    .wm__line { white-space: nowrap; font: 600 17pt/1 'Onest', sans-serif; letter-spacing: .02em;
+                color: rgba(17, 17, 19, .11); }
+    .wm__line:nth-child(even) { margin-left: -60mm; }
+    .qr__code { position: relative; z-index: 6; }
     .foot { position: absolute; left: 10mm; right: 10mm; bottom: 3mm; display: flex; justify-content: space-between;
             font-size: 7pt; color: var(--muted); }
   </style>
@@ -350,6 +358,18 @@
     $('[data-qr]').innerHTML = '<svg viewBox="-2 -2 ' + (n + 4) + ' ' + (n + 4) + '" shape-rendering="crispEdges" role="img" aria-label="QR-код: ' + esc(url) + '">' +
       '<rect x="-2" y="-2" width="' + (n + 4) + '" height="' + (n + 4) + '" fill="#fff"/><path d="' + path + '" fill="#111113"/></svg>';
     document.title = 'Dober Doner — меню A4 — ' + branch.name;
+
+    // Водяной знак для демо-версий: menu-a4.html?branch=…&wm=1
+    const WATERMARK = 'edudev.kz · Цифровизация бизнеса';
+    if (new URLSearchParams(location.search).get('wm') === '1') {
+      const phrase = (WATERMARK + '\u2003\u2003').repeat(6);
+      const layer = document.createElement('div');
+      layer.className = 'wm';
+      layer.setAttribute('aria-hidden', 'true');
+      layer.innerHTML = '<div class="wm__in">' + Array.from({ length: 18 }, () => '<div class="wm__line">' + esc(phrase) + '</div>').join('') + '</div>';
+      document.querySelector('.page').appendChild(layer);
+      document.title += ' — демо';
+    }
 
     // Проверка вёрстки: насколько содержимое колонок вылезает за свой блок (0 — всё влезло)
     const mm = px => Math.round(px * 25.4 / 96 * 10) / 10;
